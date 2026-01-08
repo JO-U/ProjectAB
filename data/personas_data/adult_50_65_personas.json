@@ -1,0 +1,104 @@
+[
+  {
+    "behavior": {
+      "pageviews": 1.0,
+      "session_duration_sec": 0.6423816696,
+      "bounce_rate": 0.4465343516,
+      "Traffic Source": "Organic",
+      "Time on Page": 3.4027446243,
+      "Previous Visits": 1.0,
+      "Conversion Rate": 1.0
+    },
+    "demographics": {
+      "eta": 55,
+      "genere": "F",
+      "paese": "Italia"
+    },
+    "bio": {
+      "occupation": "Insegnante in pensione",
+      "family_status": "Sposata con figli adulti",
+      "allergies": [
+        "glutine"
+      ],
+      "tech_comfort": "medium"
+    },
+    "goal": "Trovare ricette sane e facili da preparare per le cene in famiglia",
+    "literacy": "medium",
+    "target_group": "adult_50_65"
+  },
+  {
+    "behavior": {
+      "pageviews": 4.0,
+      "session_duration_sec": 0.1695632926,
+      "bounce_rate": 0.5106042177,
+      "Traffic Source": "Direct",
+      "Time on Page": 3.0411265649,
+      "Previous Visits": 2.0,
+      "Conversion Rate": 0.9977933453000001
+    },
+    "demographics": {
+      "eta": 58,
+      "genere": "F",
+      "paese": "Italia"
+    },
+    "bio": {
+      "occupation": "Casalinga",
+      "family_status": "Sposata con figli adulti",
+      "allergies": [],
+      "tech_comfort": "low"
+    },
+    "goal": "Cercare ricette tradizionali italiane semplici da seguire per pasti quotidiani.",
+    "literacy": "low",
+    "target_group": "adult_50_65"
+  },
+  {
+    "behavior": {
+      "pageviews": 3.0,
+      "session_duration_sec": 0.5749729641,
+      "bounce_rate": 0.4553008757,
+      "Traffic Source": "Paid",
+      "Time on Page": 6.2294350491,
+      "Previous Visits": 0.0,
+      "Conversion Rate": 1.0
+    },
+    "demographics": {
+      "eta": 58,
+      "genere": "M",
+      "paese": "Italia"
+    },
+    "bio": {
+      "occupation": "Pensionato (ex operaio edile)",
+      "family_status": "Sposato con due figli adulti",
+      "allergies": [],
+      "tech_comfort": "low"
+    },
+    "goal": "Trovare ricette semplici e veloci da preparare senza troppi passaggi complicati.",
+    "literacy": "low",
+    "target_group": "adult_50_65"
+  },
+  {
+    "behavior": {
+      "pageviews": 3.0,
+      "session_duration_sec": 0.6920812132,
+      "bounce_rate": 0.5602716235,
+      "Traffic Source": "Referral",
+      "Time on Page": 1.4814091477,
+      "Previous Visits": 1.0,
+      "Conversion Rate": 0.9499333901
+    },
+    "demographics": {
+      "eta": 55,
+      "genere": "F",
+      "paese": "Italia"
+    },
+    "bio": {
+      "occupation": "Insegnante di scuola superiore",
+      "family_status": "Sposata con due figli adulti",
+      "allergies": [],
+      "tech_comfort": "high"
+    },
+    "goal": "Cercare ricette veloci e salutari per gestire i pasti settimanali in modo efficiente, bilanciando lavoro e vita familiare.",
+    "literacy": "high",
+    "target_group": "adult_50_65"
+  }
+]

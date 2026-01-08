@@ -1,0 +1,32 @@
+targets:
+  adult_18_30:
+    demographics:
+      age_min: 18
+      age_max: 30
+      country_codes: 'IT'
+    behavior_ranges:
+      bounce_rate: [0.20, 0.40]  
+      pageviews: [2, 6]          
+      session_duration_sec: [0.3, 2.0]
+
+    literacy_distribution:
+      high: 0.60
+      medium: 0.30
+      low: 0.10
+    num_personas: 3
+
+  adult_50_65:
+    demographics:
+      age_min: 50
+      age_max: 65
+      country_codes: 'IT'
+    behavior_ranges:
+      bounce_rate: [0.35, 0.60]  
+      pageviews: [1, 4]
+      session_duration_sec: [0.1, 1.0]
+    literacy_distribution:
+      high: 0.35      
+      medium: 0.45
+      low: 0.20
+    num_personas: 3
+
