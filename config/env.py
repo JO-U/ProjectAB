@@ -12,5 +12,7 @@ class Config: #legge .env + definisce costanti globali
     DEBUG = os.getenv("DEBUG", "true").lower() == "true"
     VARIANT_URLS = eval(os.getenv("VARIANT_URLS", "{'A': 'https://jo-u.github.io/design?layout=list', 'B': 'https://jo-u.github.io/design?layout=grid'}"))  
     FIGMA_FILE_KEY = os.getenv("FIGMA_FILE_KEY")  
+    if not FIGMA_FILE_KEY:
+        raise ValueError("FIGMA_FILE_KEY mancante in .env")
 
 config = Config()
