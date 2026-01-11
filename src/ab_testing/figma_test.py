@@ -62,7 +62,7 @@ class Persona(TypedDict):
     literacy: str
 
 #LLM generate
-def generate_completion(config: Dict[str, Any], prompt: str) -> str:
+def generate_completion(config: Dict[str, Any], prompt: str, temperature: float = 0.3, max_tokens: int = 800) -> str:
     resp = requests.post(
         config["base_url"],
         headers={
@@ -73,8 +73,8 @@ def generate_completion(config: Dict[str, Any], prompt: str) -> str:
         json={
             "model": config["model"],
             "messages": [{"role": "user", "content": prompt}],
-            "max_tokens": 400,
-            "temperature": 0.7,
+            "max_tokens": max_tokens,
+            "temperature": temperature,
         },
     )
     resp.raise_for_status()
@@ -84,14 +84,25 @@ def extract_json_llm(content: str) -> Dict[str, Any]:
     match = re.search(r"\{.*\}", content, re.DOTALL)
     if match:
         try:
-            return json.loads(match.group())
+            result = json.loads(match.group())
+            #mandatory
+            required = ["completion", "timetogoal", "overallscore", "nps"]
+            if all(k in result for k in required):
+                #optional fields
+                result.setdefault("actions", "")
+                result.setdefault("predictednext", "")
+                return result
         except json.JSONDecodeError:
             pass
+    
+    #retry with fix prompt
     fix_prompt = (
-        "Restituisci SOLO JSON valido con schema:\n"
-        "{'completion':bool,'timetogoal':float,'overallscore':float,'nps':int,'predictednext':'str'}"
+        "Estrai SOLO il JSON della risposta precedente.\n"
+        "Schema richiesto:\n"
+        "{'completion':true/false,'timetogoal':5.0,'overallscore':8,'nps':7,'predictednext':'descrizione azione'}\n"
+        "Rispondi SOLO con JSON, niente testo."
     )
-    fixed = generate_completion(LLM_CONFIG, fix_prompt)
+    fixed = generate_completion(LLM_CONFIG, fix_prompt, temperature=0.1, max_tokens=200)
     match_fixed = re.search(r"\{.*\}", fixed, re.DOTALL)
     if not match_fixed:
         raise ValueError("Impossibile estrarre JSON dalla risposta LLM")
@@ -128,7 +139,6 @@ class FigmaAB:
         return data
 
 #prsonas 
-
 def load_personas(limit: int = 100) -> List[Persona]:
     personas: List[Persona] = []
     for path in PERSONAS_DIR.glob("*.json"):
@@ -147,7 +157,6 @@ def load_personas(limit: int = 100) -> List[Persona]:
     return personas
 
 #A/B VARIANTS
-
 def extract_ab_variants(figma_data: Dict[str, Any]) -> Dict[str, Dict[str, Any]]:
     variants: Dict[str, Dict[str, Any]] = {}
 
@@ -163,10 +172,15 @@ def extract_ab_variants(figma_data: Dict[str, Any]) -> Dict[str, Dict[str, Any]]
 
             if label:
                 titles = []
+                descriptions = []
 
                 def extract_texts(n: Dict[str, Any]):
                     if n.get("type") == "TEXT":
-                        titles.append(n.get("characters", ""))
+                        text = n.get("characters", "")
+                        if text.strip():
+                            titles.append(text)
+                    if n.get("description"):
+                        descriptions.append(n.get("description"))
                     for c in n.get("children", []):
                         extract_texts(c)
 
@@ -175,10 +189,11 @@ def extract_ab_variants(figma_data: Dict[str, Any]) -> Dict[str, Dict[str, Any]]
                 variants[label] = {
                     "name": node.get("name", ""),
                     "layout": "UNKNOWN",
-                    "titles": titles[:10]
+                    "titles": titles[:15],
+                    "descriptions": descriptions[:5]
                 }
 
-        #Ricorsione su figli
+        #scan children
         for c in node.get("children", []):
             scan_node(c)
 
@@ -188,17 +203,32 @@ def extract_ab_variants(figma_data: Dict[str, Any]) -> Dict[str, Dict[str, Any]]
 #SIMULATION
 
 AB_PROMPT = """
-Simula un utente interagendo con la UI
+SIMULAZIONE UTENTE SU INTERFACCIA A/B
 
-Variante {var} ({layout}): {titles}
+Variante {var}
+Elementi visibili: {titles}
+{descriptions_text}
 
-Sei {name}, occupazione {occupation} ({eta} anni)
-Allergie: {allergies}
-Goal: {goal}
-Comportamento passato: pageviews={pageviews}, session_duration={session_duration_sec}, bounce_rate={bounce_rate}
+PROFILO UTENTE:
+Nome: {name}
+Occupazione: {occupation}
+Età: {eta} anni
+Allergie/Preferenze: {allergies}
+Esperienza: {literacy} (bassa/media/alta)
+Comportamento passato: {pageviews} pagine, {session_duration_sec}s di sessione, bounce rate {bounce_rate}%
 
-SOLO JSON:
-{{"completion":bool,"timetogoal":float,"overallscore":float,"nps":int,"predictednext":"str"}}
+GOAL PRIMARIO: {goal}
+
+TASK:
+1. Valuta se l'interfaccia permette di raggiungere il goal
+2. Stima tempo per completare (secondi)
+3. Valuta usabilità (1-10)
+4. Calcola probabilità di raccomandazione (NPS: 0-10)
+5. Descrivi azioni compiute
+6. Predici azione successiva dell'utente
+
+RISPOSTA (SOLO JSON):
+{{"completion":true/false,"timetogoal":float,"overallscore":int,"nps":int, "actions": "string","predictednext":"azione descrittiva"}}
 """
 
 def simulate_ab(persona: Persona, variant: Dict[str, Any], label: str) -> Dict[str, Any]:
@@ -206,22 +236,39 @@ def simulate_ab(persona: Persona, variant: Dict[str, Any], label: str) -> Dict[s
     beh = persona["behavior"]
     dem = persona["demographics"]
 
+    descriptions_text = ""
+    if variant.get("descriptions"):
+        descriptions_text = "Descrizioni: " + " | ".join(variant.get("descriptions", []))
+
     prompt = AB_PROMPT.format(
         var=label,
-        layout=variant.get("layout", "NONE"),
-        titles=" | ".join(variant.get("titles", [])),
+        titles=" | ".join(variant.get("titles", [])[:20]),
+        descriptions_text=descriptions_text,
         name=persona["name"],
         occupation=bio.get("occupation", "?"),
-        eta=dem.get("eta", 30),
-        allergies=", ".join(bio.get("allergies", [])),
+        eta=dem.get("age", dem.get("eta", 30)),
+        allergies=", ".join(bio.get("allergies", [])) or "Nessuna",
+        literacy=persona["literacy"],
         goal=persona["goal"],
         pageviews=beh.get("pageviews", 0),
         session_duration_sec=beh.get("session_duration_sec", 0),
         bounce_rate=beh.get("bounce_rate", 0),
     )
 
-    raw = generate_completion(LLM_CONFIG, prompt)
-    metrics = extract_json_llm(raw)
+    raw = generate_completion(LLM_CONFIG, prompt, temperature=0.3, max_tokens=600)
+    try:
+        metrics = extract_json_llm(raw)
+    except Exception as e:
+        print(f"Errore estrazione JSON per {persona['name']}: {e}")
+        metrics = {
+            "completion": False,
+            "timetogoal": 999,
+            "overallscore": 0,
+            "nps": 0,
+            "actions": "ERRORE",
+            "predictednext": "ERRORE"
+        }
+    
     metrics.update({
         "persona": persona["name"],
         "group": persona["target_group"],
@@ -232,7 +279,6 @@ def simulate_ab(persona: Persona, variant: Dict[str, Any], label: str) -> Dict[s
     return metrics
 
 # MAIN
-
 def main() -> None:
     fetcher = FigmaAB(FIGMA_TOKEN)
     figma_raw = fetcher.fetch_ab(FIGMA_FILE_KEY, FIGMA_NODE_IDS)
