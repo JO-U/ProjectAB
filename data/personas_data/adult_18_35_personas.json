@@ -1,0 +1,1116 @@
+[
+  {
+    "persona_id": "PS_adult_18_35_b0886a48",
+    "bio": {
+      "nome": "Francesca Bianchi",
+      "eta": 22,
+      "lavoro": "Commessa part-time",
+      "stato_familiare": "Single"
+    },
+    "navigation": {
+      "decision_style": "speedrunner",
+      "patience_level": 0.5,
+      "tech_comfort": "low",
+      "task_oriented": true,
+      "attention_to_detail": "medium"
+    },
+    "gusti_culinari": {
+      "gusti": [
+        "vegetariano",
+        "internazionale"
+      ],
+      "piatti_preferiti": [
+        "risotto ai funghi",
+        "pizza margherita"
+      ],
+      "allergie": []
+    },
+    "brief": "Francesca, 22 anni, commessa part-time single. Navigazione veloce, bassa dimestichezza tecnologica. Preferisce cucina vegetariana e internazionale, ama risotto e pizza. Nessuna allergia. UI pulito naturale essenziale, evita colori scuri.",
+    "target_group": "adult_18_35",
+    "preferenze_visive": {
+      "colori_preferiti": [
+        "verde",
+        "bianco",
+        "naturale"
+      ],
+      "stile_ui": "pulito naturale essenziale",
+      "evita": [
+        "colori scuri",
+        "layout pesante"
+      ],
+      "attention_visual": "bassa (focus su contenuto, meno su estetica)"
+    }
+  },
+  {
+    "persona_id": "PS_adult_18_35_97e8a2cc",
+    "bio": {
+      "nome": "Matteo Rossi",
+      "eta": 22,
+      "lavoro": "Studente universitario",
+      "stato_familiare": "Single"
+    },
+    "navigation": {
+      "decision_style": "speedrunner",
+      "patience_level": 0.2,
+      "tech_comfort": "medium",
+      "task_oriented": true,
+      "attention_to_detail": "low"
+    },
+    "gusti_culinari": {
+      "gusti": [
+        "veloce",
+        "street food"
+      ],
+      "piatti_preferiti": [
+        "pizza al taglio",
+        "supplì"
+      ],
+      "allergie": [
+        "glutine"
+      ]
+    },
+    "brief": "Matteo, 22 anni, studente single. Navigazione veloce, poca pazienza, orientato al compito. Preferisce cibi veloci e street food come pizza e supplì. Allergico al glutine. UI dinamico casual essenziale, evita troppo formale.",
+    "target_group": "adult_18_35",
+    "preferenze_visive": {
+      "colori_preferiti": [
+        "vivace",
+        "rosso",
+        "giallo"
+      ],
+      "stile_ui": "dinamico casual essenziale",
+      "evita": [
+        "troppo formale",
+        "layout complessi"
+      ],
+      "attention_visual": "bassa (focus su contenuto, meno su estetica)"
+    }
+  },
+  {
+    "persona_id": "PS_adult_18_35_c8830de7",
+    "bio": {
+      "nome": "Chiara Verdi",
+      "eta": 32,
+      "lavoro": "Impiegata amministrativa",
+      "stato_familiare": "Married"
+    },
+    "navigation": {
+      "decision_style": "balanced",
+      "patience_level": 0.6,
+      "tech_comfort": "high",
+      "task_oriented": false,
+      "attention_to_detail": "medium"
+    },
+    "gusti_culinari": {
+      "gusti": [
+        "mediterraneo",
+        "tradizionale"
+      ],
+      "piatti_preferiti": [
+        "pasta alla carbonara",
+        "risotto agli asparagi"
+      ],
+      "allergie": [
+        "lattosio"
+      ]
+    },
+    "brief": "Chiara, 32 anni, impiegata sposata. Navigazione bilanciata, media pazienza, esplorativa. Ama ricette mediterranee etradizionali come pasta alla carbonara e risotto. Intollerante al lattosio. UI classico familiare, evita neon.",
+    "target_group": "adult_18_35",
+    "preferenze_visive": {
+      "colori_preferiti": [
+        "caldo",
+        "terra",
+        "beige"
+      ],
+      "stile_ui": "classico familiare",
+      "evita": [
+        "neon",
+        "troppo minimalista"
+      ],
+      "attention_visual": "media (nota layout generale, meno dettagli)"
+    }
+  },
+  {
+    "persona_id": "PS_adult_18_35_9b164fa5",
+    "bio": {
+      "nome": "Giulia Rossi",
+      "eta": 28,
+      "lavoro": "Social Media Manager",
+      "stato_familiare": "Single"
+    },
+    "navigation": {
+      "decision_style": "cautious",
+      "patience_level": 0.34,
+      "tech_comfort": "high",
+      "task_oriented": true,
+      "attention_to_detail": "medium"
+    },
+    "gusti_culinari": {
+      "gusti": [
+        "fusion",
+        "vegetariano"
+      ],
+      "piatti_preferiti": [
+        "poke bowl",
+        "ratatouille"
+      ],
+      "allergie": []
+    },
+    "brief": "Giulia, 28 anni, social media manager single. Naviga cauta ma veloce, alta dimestichezza tech. Preferisce cucina fusion e vegetariana, ama poke bowl e ratatouille. UI minimal moderno rassicurante, evita rosso acceso.",
+    "target_group": "adult_18_35",
+    "preferenze_visive": {
+      "colori_preferiti": [
+        "pastello",
+        "verde menta",
+        "azzurro"
+      ],
+      "stile_ui": "minimal moderno rassicurante",
+      "evita": [
+        "rosso acceso",
+        "layout busy"
+      ],
+      "attention_visual": "media (nota layout generale, meno dettagli)"
+    }
+  },
+  {
+    "persona_id": "PS_adult_18_35_2a35fd49",
+    "bio": {
+      "nome": "Stefano Ferrari",
+      "eta": 32,
+      "lavoro": "Consulente Marketing",
+      "stato_familiare": "Married"
+    },
+    "navigation": {
+      "decision_style": "speedrunner",
+      "patience_level": 0.15,
+      "tech_comfort": "medium",
+      "task_oriented": true,
+      "attention_to_detail": "low"
+    },
+    "gusti_culinari": {
+      "gusti": [
+        "veloce",
+        "proteico"
+      ],
+      "piatti_preferiti": [
+        "hamburger vegano",
+        "insalata di quinoa"
+      ],
+      "allergie": [
+        "glutine"
+      ]
+    },
+    "brief": "Stefano, 32 anni, consulente marketing sposato. Navigatore veloce e poco paziente. Cerca ricette veloci e proteiche come hamburger vegano. Allergico al glutine. UI dinamico casual essenziale, evita troppo formale.",
+    "target_group": "adult_18_35",
+    "preferenze_visive": {
+      "colori_preferiti": [
+        "vivace",
+        "rosso",
+        "giallo"
+      ],
+      "stile_ui": "dinamico casual essenziale",
+      "evita": [
+        "troppo formale",
+        "layout complessi"
+      ],
+      "attention_visual": "bassa (focus su contenuto, meno su estetica)"
+    }
+  },
+  {
+    "persona_id": "PS_adult_18_35_4a9ef659",
+    "bio": {
+      "nome": "Sofia Conti",
+      "eta": 24,
+      "lavoro": "Graphic Designer",
+      "stato_familiare": "Single"
+    },
+    "navigation": {
+      "decision_style": "balanced",
+      "patience_level": 0.52,
+      "tech_comfort": "high",
+      "task_oriented": false,
+      "attention_to_detail": "high"
+    },
+    "gusti_culinari": {
+      "gusti": [
+        "vegano",
+        "crudista"
+      ],
+      "piatti_preferiti": [
+        "zucchine spaghetti",
+        "cheesecake vegana"
+      ],
+      "allergie": [
+        "lattosio"
+      ]
+    },
+    "brief": "Sofia, 24 anni, graphic designer single. Esplora con attenzione, tech-savvy. Cucina vegana e crudista, preferisce zucchine spaghetti. Intollerante al lattosio. UI pulito naturale, evita colori scuri.",
+    "target_group": "adult_18_35",
+    "preferenze_visive": {
+      "colori_preferiti": [
+        "verde",
+        "bianco",
+        "naturale"
+      ],
+      "stile_ui": "pulito naturale",
+      "evita": [
+        "colori scuri",
+        "layout pesante"
+      ],
+      "attention_visual": "alta (nota dettagli UI, colori in immagini)"
+    }
+  },
+  {
+    "persona_id": "PS_adult_18_35_8e803ca7",
+    "bio": {
+      "nome": "Luca Romano",
+      "eta": 30,
+      "lavoro": "Sviluppatore Software",
+      "stato_familiare": "Married"
+    },
+    "navigation": {
+      "decision_style": "speedrunner",
+      "patience_level": 0.22,
+      "tech_comfort": "high",
+      "task_oriented": true,
+      "attention_to_detail": "low"
+    },
+    "gusti_culinari": {
+      "gusti": [
+        "tech-friendly",
+        "internazionale"
+      ],
+      "piatti_preferiti": [
+        "ramen",
+        "tacos"
+      ],
+      "allergie": []
+    },
+    "brief": "Luca, 30 anni, sviluppatore software sposato. Navigatore rapido e task-oriented. Cucina tech-friendly e internazionale, ama ramen e tacos. UI moderno eclettico essenziale, evita troppo tradizionale.",
+    "target_group": "adult_18_35",
+    "preferenze_visive": {
+      "colori_preferiti": [
+        "multicolore",
+        "neutro",
+        "cosmopolita"
+      ],
+      "stile_ui": "moderno eclettico essenziale",
+      "evita": [
+        "troppo tradizionale",
+        "animazioni lente"
+      ],
+      "attention_visual": "media (nota layout generale, meno dettagli)"
+    }
+  },
+  {
+    "persona_id": "PS_adult_18_35_7315ccc4",
+    "bio": {
+      "nome": "Chiara De Luca",
+      "eta": 35,
+      "lavoro": "Infermiera",
+      "stato_familiare": "Parent"
+    },
+    "navigation": {
+      "decision_style": "balanced",
+      "patience_level": 0.78,
+      "tech_comfort": "medium",
+      "task_oriented": false,
+      "attention_to_detail": "high"
+    },
+    "gusti_culinari": {
+      "gusti": [
+        "familiare",
+        "comfort food"
+      ],
+      "piatti_preferiti": [
+        "lasagna",
+        "tiramisù"
+      ],
+      "allergie": [
+        "frutta secca"
+      ]
+    },
+    "brief": "Chiara, 35 anni, infermiera con figli. Naviga con pazienza e attenzione. Preferisce piatti familiari come lasagna e tiramisù. Allergia frutta secca. UI classico familiare, evita neon.",
+    "target_group": "adult_18_35",
+    "preferenze_visive": {
+      "colori_preferiti": [
+        "caldo",
+        "terra",
+        "beige"
+      ],
+      "stile_ui": "classico familiare",
+      "evita": [
+        "neon",
+        "troppo minimalista"
+      ],
+      "attention_visual": "bassa (focus su contenuto, meno su estetica)"
+    }
+  },
+  {
+    "persona_id": "PS_adult_18_35_c96c499a",
+    "bio": {
+      "nome": "Pietro Bianchi",
+      "eta": 27,
+      "lavoro": "Specialista marketing",
+      "stato_familiare": "Single"
+    },
+    "navigation": {
+      "decision_style": "speedrunner",
+      "patience_level": 0.2,
+      "tech_comfort": "high",
+      "task_oriented": true,
+      "attention_to_detail": "low"
+    },
+    "gusti_culinari": {
+      "gusti": [
+        "veloce",
+        "tradizionale"
+      ],
+      "piatti_preferiti": [
+        "pizza margherita",
+        "carbonara"
+      ],
+      "allergie": []
+    },
+    "brief": "Pietro, 27 anni, single specialista marketing. Navigatore veloce, poca pazienza, alta dimestichezza tech. Preferenze per ricette veloci e tradizionali come pizza e carbonara. Nessuna allergia. UI classico familiare essenziale, evita neon.",
+    "target_group": "adult_18_35",
+    "preferenze_visive": {
+      "colori_preferiti": [
+        "caldo",
+        "terra",
+        "beige"
+      ],
+      "stile_ui": "classico familiare essenziale",
+      "evita": [
+        "neon",
+        "troppo minimalista"
+      ],
+      "attention_visual": "media (nota layout generale, meno dettagli)"
+    }
+  },
+  {
+    "persona_id": "PS_adult_18_35_a1e67a53",
+    "bio": {
+      "nome": "Giulio Rossi",
+      "eta": 30,
+      "lavoro": "Digital Marketing Specialist",
+      "stato_familiare": "Single"
+    },
+    "navigation": {
+      "decision_style": "balanced",
+      "patience_level": 0.7,
+      "tech_comfort": "high",
+      "task_oriented": true,
+      "attention_to_detail": "high"
+    },
+    "gusti_culinari": {
+      "gusti": [
+        "tradizionale",
+        "fusion"
+      ],
+      "piatti_preferiti": [
+        "risotto ai funghi",
+        "tiramisù"
+      ],
+      "allergie": [
+        "glutine"
+      ]
+    },
+    "brief": "Giulio, 30 anni, specialista marketing digitale single. Navigazione bilanciata, paziente e orientato al compito. Ama cucina tradizionale con twist fusion, risotto e tiramisù. Allergico al glutine. UI minimal moderno, evita rosso acceso.",
+    "target_group": "adult_18_35",
+    "preferenze_visive": {
+      "colori_preferiti": [
+        "pastello",
+        "verde menta",
+        "azzurro"
+      ],
+      "stile_ui": "minimal moderno",
+      "evita": [
+        "rosso acceso",
+        "layout busy"
+      ],
+      "attention_visual": "alta (nota dettagli UI, colori in immagini)"
+    }
+  },
+  {
+    "persona_id": "PS_adult_18_35_0fc41b12",
+    "bio": {
+      "nome": "Alessio Bianchi",
+      "eta": 28,
+      "lavoro": "Digital Marketer",
+      "stato_familiare": "Single"
+    },
+    "navigation": {
+      "decision_style": "speedrunner",
+      "patience_level": 0.2,
+      "tech_comfort": "high",
+      "task_oriented": true,
+      "attention_to_detail": "low"
+    },
+    "gusti_culinari": {
+      "gusti": [
+        "veloce",
+        "tradizionale"
+      ],
+      "piatti_preferiti": [
+        "risotto ai funghi",
+        "saltimbocca alla romana"
+      ],
+      "allergie": [
+        "glutine"
+      ]
+    },
+    "brief": "Alessio, 28 anni, single, digital marketer. Navigazione veloce, poca pazienza, alta dimestichezza tecnologica. Cerca ricette italiane tradizionali ma rapide. Allergico al glutine. UI classico familiare essenziale, evita neon.",
+    "target_group": "adult_18_35",
+    "preferenze_visive": {
+      "colori_preferiti": [
+        "caldo",
+        "terra",
+        "beige"
+      ],
+      "stile_ui": "classico familiare essenziale",
+      "evita": [
+        "neon",
+        "troppo minimalista"
+      ],
+      "attention_visual": "media (nota layout generale, meno dettagli)"
+    }
+  },
+  {
+    "persona_id": "PS_adult_18_35_8ab4eaa6",
+    "bio": {
+      "nome": "Davide Ferrari",
+      "eta": 28,
+      "lavoro": "Digital Marketer",
+      "stato_familiare": "Single"
+    },
+    "navigation": {
+      "decision_style": "speedrunner",
+      "patience_level": 0.2,
+      "tech_comfort": "high",
+      "task_oriented": true,
+      "attention_to_detail": "low"
+    },
+    "gusti_culinari": {
+      "gusti": [
+        "mediterraneo",
+        "vegetariano"
+      ],
+      "piatti_preferiti": [
+        "risotto ai funghi",
+        "parmigiana di melanzane"
+      ],
+      "allergie": []
+    },
+    "brief": "Davide, 28 anni, digital marketer single. Navigazione veloce, poca pazienza, alta dimestichezza tecnica. Preferenze culinarie mediterranee vegetariane, ama risotto e parmigiana. Nessuna allergia. UI pulito naturale essenziale, evita colori scuri.",
+    "target_group": "adult_18_35",
+    "preferenze_visive": {
+      "colori_preferiti": [
+        "verde",
+        "bianco",
+        "naturale"
+      ],
+      "stile_ui": "pulito naturale essenziale",
+      "evita": [
+        "colori scuri",
+        "layout pesante"
+      ],
+      "attention_visual": "media (nota layout generale, meno dettagli)"
+    }
+  },
+  {
+    "persona_id": "PS_adult_18_35_7443d53b",
+    "bio": {
+      "nome": "Nico Lombardi",
+      "eta": 28,
+      "lavoro": "Graphic Designer",
+      "stato_familiare": "Single"
+    },
+    "navigation": {
+      "decision_style": "speedrunner",
+      "patience_level": 0.2,
+      "tech_comfort": "high",
+      "task_oriented": true,
+      "attention_to_detail": "low"
+    },
+    "gusti_culinari": {
+      "gusti": [
+        "veloce",
+        "tradizionale"
+      ],
+      "piatti_preferiti": [
+        "risotto ai funghi",
+        "tiramisù"
+      ],
+      "allergie": []
+    },
+    "brief": "Nico, 28 anni, graphic designer single. Navigatore veloce, bassa pazienza, alta dimestichezza tecnologica. Preferisce ricette rapide e tradizionali come risotto e tiramisù. Nessuna allergia. UI classico familiare essenziale, evita neon.",
+    "target_group": "adult_18_35",
+    "preferenze_visive": {
+      "colori_preferiti": [
+        "caldo",
+        "terra",
+        "beige"
+      ],
+      "stile_ui": "classico familiare essenziale",
+      "evita": [
+        "neon",
+        "troppo minimalista"
+      ],
+      "attention_visual": "media (nota layout generale, meno dettagli)"
+    }
+  },
+  {
+    "persona_id": "PS_adult_18_35_d8383b72",
+    "bio": {
+      "nome": "Theo Esposito",
+      "eta": 28,
+      "lavoro": "Graphic Designer",
+      "stato_familiare": "Single"
+    },
+    "navigation": {
+      "decision_style": "balanced",
+      "patience_level": 0.6,
+      "tech_comfort": "high",
+      "task_oriented": true,
+      "attention_to_detail": "medium"
+    },
+    "gusti_culinari": {
+      "gusti": [
+        "mediterraneo",
+        "fusion"
+      ],
+      "piatti_preferiti": [
+        "risotto ai funghi",
+        "tiramisù"
+      ],
+      "allergie": [
+        "glutine"
+      ]
+    },
+    "brief": "Theo, 28 anni, graphic designer single. Navigazione bilanciata, task-oriented con comfort tecnologico alto. Preferenze per ricette mediterranee e fusion, allergico al glutine. UI minimal moderno, evita rosso acceso.",
+    "target_group": "adult_18_35",
+    "preferenze_visive": {
+      "colori_preferiti": [
+        "pastello",
+        "verde menta",
+        "azzurro"
+      ],
+      "stile_ui": "minimal moderno",
+      "evita": [
+        "rosso acceso",
+        "layout busy"
+      ],
+      "attention_visual": "media (nota layout generale, meno dettagli)"
+    }
+  },
+  {
+    "persona_id": "PS_adult_18_35_496e4935",
+    "bio": {
+      "nome": "Lorenzo Marini",
+      "eta": 28,
+      "lavoro": "Digital Marketer",
+      "stato_familiare": "Single"
+    },
+    "navigation": {
+      "decision_style": "speedrunner",
+      "patience_level": 0.2,
+      "tech_comfort": "high",
+      "task_oriented": true,
+      "attention_to_detail": "low"
+    },
+    "gusti_culinari": {
+      "gusti": [
+        "mediterraneo",
+        "moderno"
+      ],
+      "piatti_preferiti": [
+        "risotto ai funghi",
+        "tiramisù"
+      ],
+      "allergie": []
+    },
+    "brief": "Lorenzo, 28 anni, digital marketer single. Navigazione veloce, poca pazienza, alta dimestichezza tecnica. Cucina mediterranea e moderna, preferisce risotto e tiramisù. Senza allergie. UI minimal moderno essenziale, evita rosso acceso.",
+    "target_group": "adult_18_35",
+    "preferenze_visive": {
+      "colori_preferiti": [
+        "pastello",
+        "verde menta",
+        "azzurro"
+      ],
+      "stile_ui": "minimal moderno essenziale",
+      "evita": [
+        "rosso acceso",
+        "layout busy"
+      ],
+      "attention_visual": "media (nota layout generale, meno dettagli)"
+    }
+  },
+  {
+    "persona_id": "PS_adult_18_35_cc2aacf0",
+    "bio": {
+      "nome": "Riccardo Conti",
+      "eta": 28,
+      "lavoro": "Graphic Designer",
+      "stato_familiare": "Single"
+    },
+    "navigation": {
+      "decision_style": "balanced",
+      "patience_level": 0.8,
+      "tech_comfort": "high",
+      "task_oriented": true,
+      "attention_to_detail": "medium"
+    },
+    "gusti_culinari": {
+      "gusti": [
+        "veloce",
+        "tradizionale"
+      ],
+      "piatti_preferiti": [
+        "risotto alla milanese",
+        "tiramisù"
+      ],
+      "allergie": []
+    },
+    "brief": "Riccardo, 28 anni, graphic designer single. Navigazione bilanciata, paziente e tech-savvy. Cerca ricette veloci ma tradizionali come risotto e tiramisù. Nessuna allergia. UI classico familiare, evita neon.",
+    "target_group": "adult_18_35",
+    "preferenze_visive": {
+      "colori_preferiti": [
+        "caldo",
+        "terra",
+        "beige"
+      ],
+      "stile_ui": "classico familiare",
+      "evita": [
+        "neon",
+        "troppo minimalista"
+      ],
+      "attention_visual": "media (nota layout generale, meno dettagli)"
+    }
+  },
+  {
+    "persona_id": "PS_adult_18_35_3b77c8cd",
+    "bio": {
+      "nome": "Edoardo Gallo",
+      "eta": 28,
+      "lavoro": "Digital Marketer",
+      "stato_familiare": "Single"
+    },
+    "navigation": {
+      "decision_style": "speedrunner",
+      "patience_level": 0.2,
+      "tech_comfort": "high",
+      "task_oriented": true,
+      "attention_to_detail": "low"
+    },
+    "gusti_culinari": {
+      "gusti": [
+        "tradizionale",
+        "veloce"
+      ],
+      "piatti_preferiti": [
+        "pasta alla carbonara",
+        "tiramisù"
+      ],
+      "allergie": []
+    },
+    "brief": "Edoardo, 28 anni, digital marketer single. Navigazione veloce, poca pazienza, orientato al compito. Preferisce cucina tradizionale e veloce, ama carbonara e tiramisù. UI classico familiare essenziale, evita neon. Attenzione visiva media (nota layout generale, meno dettagli).",
+    "target_group": "adult_18_35",
+    "preferenze_visive": {
+      "colori_preferiti": [
+        "caldo",
+        "terra",
+        "beige"
+      ],
+      "stile_ui": "classico familiare essenziale",
+      "evita": [
+        "neon",
+        "troppo minimalista"
+      ],
+      "attention_visual": "media (nota layout generale, meno dettagli)"
+    }
+  },
+  {
+    "persona_id": "PS_adult_18_35_db53ac79",
+    "bio": {
+      "nome": "Simone Rizzo",
+      "eta": 28,
+      "lavoro": "Social Media Manager",
+      "stato_familiare": "Single"
+    },
+    "navigation": {
+      "decision_style": "speedrunner",
+      "patience_level": 0.2,
+      "tech_comfort": "high",
+      "task_oriented": true,
+      "attention_to_detail": "low"
+    },
+    "gusti_culinari": {
+      "gusti": [
+        "fusion",
+        "veloce"
+      ],
+      "piatti_preferiti": [
+        "poke bowl",
+        "hamburger vegano"
+      ],
+      "allergie": []
+    },
+    "brief": "Simone, 28 anni, single, social media manager. Navigazione veloce, poca pazienza, alta dimestichezza tecnica. Preferisce cucina fusion e piatti veloci come poke bowl. UI minimal moderno essenziale, evita rosso acceso.",
+    "target_group": "adult_18_35",
+    "preferenze_visive": {
+      "colori_preferiti": [
+        "pastello",
+        "verde menta",
+        "azzurro"
+      ],
+      "stile_ui": "minimal moderno essenziale",
+      "evita": [
+        "rosso acceso",
+        "layout busy"
+      ],
+      "attention_visual": "media (nota layout generale, meno dettagli)"
+    }
+  },
+  {
+    "persona_id": "PS_adult_18_35_25ce9a88",
+    "bio": {
+      "nome": "Giulia Conti",
+      "eta": 32,
+      "lavoro": "Architetto",
+      "stato_familiare": "Married"
+    },
+    "navigation": {
+      "decision_style": "balanced",
+      "patience_level": 0.5,
+      "tech_comfort": "medium",
+      "task_oriented": false,
+      "attention_to_detail": "medium"
+    },
+    "gusti_culinari": {
+      "gusti": [
+        "vegetariano",
+        "internazionale"
+      ],
+      "piatti_preferiti": [
+        "ratatouille",
+        "risotto ai funghi"
+      ],
+      "allergie": [
+        "lattosio"
+      ]
+    },
+    "brief": "Giulia, 32 anni, architetto sposata. Navigazione bilanciata, esplora contenuti. Cucina vegetariana e internazionale, allergia al lattosio. UI pulito naturale, evita colori scuri.",
+    "target_group": "adult_18_35",
+    "preferenze_visive": {
+      "colori_preferiti": [
+        "verde",
+        "bianco",
+        "naturale"
+      ],
+      "stile_ui": "pulito naturale",
+      "evita": [
+        "colori scuri",
+        "layout pesante"
+      ],
+      "attention_visual": "bassa (focus su contenuto, meno su estetica)"
+    }
+  },
+  {
+    "persona_id": "PS_adult_18_35_99123a19",
+    "bio": {
+      "nome": "Luca Ferrari",
+      "eta": 24,
+      "lavoro": "Studente Universitario",
+      "stato_familiare": "Single"
+    },
+    "navigation": {
+      "decision_style": "cautious",
+      "patience_level": 0.6,
+      "tech_comfort": "medium",
+      "task_oriented": false,
+      "attention_to_detail": "high"
+    },
+    "gusti_culinari": {
+      "gusti": [
+        "tradizionale",
+        "comfort food"
+      ],
+      "piatti_preferiti": [
+        "lasagna",
+        "parmigiana"
+      ],
+      "allergie": []
+    },
+    "brief": "Luca, 24 anni, studente single. Navigazione cauta e attenta ai dettagli. Ama piatti tradizionali come lasagna e parmigiana. UI classico familiare rassicurante, evita neon.",
+    "target_group": "adult_18_35",
+    "preferenze_visive": {
+      "colori_preferiti": [
+        "caldo",
+        "terra",
+        "beige"
+      ],
+      "stile_ui": "classico familiare rassicurante",
+      "evita": [
+        "neon",
+        "troppo minimalista"
+      ],
+      "attention_visual": "bassa (focus su contenuto, meno su estetica)"
+    }
+  },
+  {
+    "persona_id": "PS_adult_18_35_11c958e9",
+    "bio": {
+      "nome": "Sofia Romano",
+      "eta": 30,
+      "lavoro": "Infermiera",
+      "stato_familiare": "Parent"
+    },
+    "navigation": {
+      "decision_style": "balanced",
+      "patience_level": 0.8,
+      "tech_comfort": "high",
+      "task_oriented": true,
+      "attention_to_detail": "high"
+    },
+    "gusti_culinari": {
+      "gusti": [
+        "salutare",
+        "familiare"
+      ],
+      "piatti_preferiti": [
+        "minestrone",
+        "polpette al forno"
+      ],
+      "allergie": [
+        "glutine"
+      ]
+    },
+    "brief": "Sofia, 30 anni, infermiera con figli. Paziente e orientata alla missione. Cucina salutare per famiglia, allergia al glutine. UI pulito naturale, evita colori scuri.",
+    "target_group": "adult_18_35",
+    "preferenze_visive": {
+      "colori_preferiti": [
+        "verde",
+        "bianco",
+        "naturale"
+      ],
+      "stile_ui": "pulito naturale",
+      "evita": [
+        "colori scuri",
+        "layout pesante"
+      ],
+      "attention_visual": "alta (nota dettagli UI, colori in immagini)"
+    }
+  },
+  {
+    "persona_id": "PS_adult_18_35_051f3329",
+    "bio": {
+      "nome": "Andrea Lombardi",
+      "eta": 22,
+      "lavoro": "Graphic Designer",
+      "stato_familiare": "Single"
+    },
+    "navigation": {
+      "decision_style": "speedrunner",
+      "patience_level": 0.3,
+      "tech_comfort": "high",
+      "task_oriented": true,
+      "attention_to_detail": "low"
+    },
+    "gusti_culinari": {
+      "gusti": [
+        "vegano",
+        "piccante"
+      ],
+      "piatti_preferiti": [
+        "curry di ceci",
+        "tacos vegani"
+      ],
+      "allergie": []
+    },
+    "brief": "Andrea, 22 anni, graphic designer single. Navigazione rapida, poca pazienza. Preferisce cucina vegana piccante come curry di ceci. UI pulito naturale essenziale, evita colori scuri.",
+    "target_group": "adult_18_35",
+    "preferenze_visive": {
+      "colori_preferiti": [
+        "verde",
+        "bianco",
+        "naturale"
+      ],
+      "stile_ui": "pulito naturale essenziale",
+      "evita": [
+        "colori scuri",
+        "layout pesante"
+      ],
+      "attention_visual": "media (nota layout generale, meno dettagli)"
+    }
+  },
+  {
+    "persona_id": "PS_adult_18_35_5445ecc0",
+    "bio": {
+      "nome": "Giulia Martini",
+      "eta": 28,
+      "lavoro": "Impiegata amministrativa",
+      "stato_familiare": "Single"
+    },
+    "navigation": {
+      "decision_style": "cautious",
+      "patience_level": 0.5,
+      "tech_comfort": "medium",
+      "task_oriented": true,
+      "attention_to_detail": "high"
+    },
+    "gusti_culinari": {
+      "gusti": [
+        "veloce",
+        "tradizionale"
+      ],
+      "piatti_preferiti": [
+        "risotto ai funghi",
+        "parmigiana"
+      ],
+      "allergie": []
+    },
+    "brief": "Giulia, 28 anni, impiegata single. Navigazione cauta e metodica. Preferisce ricette veloci e tradizionali come risotto e parmigiana. UI classico familiare rassicurante, evita neon.",
+    "target_group": "adult_18_35",
+    "preferenze_visive": {
+      "colori_preferiti": [
+        "caldo",
+        "terra",
+        "beige"
+      ],
+      "stile_ui": "classico familiare rassicurante",
+      "evita": [
+        "neon",
+        "troppo minimalista"
+      ],
+      "attention_visual": "bassa (focus su contenuto, meno su estetica)"
+    }
+  },
+  {
+    "persona_id": "PS_adult_18_35_a2301a24",
+    "bio": {
+      "nome": "Chiara Esposito",
+      "eta": 32,
+      "lavoro": "Infermiera",
+      "stato_familiare": "Married"
+    },
+    "navigation": {
+      "decision_style": "balanced",
+      "patience_level": 0.6,
+      "tech_comfort": "medium",
+      "task_oriented": true,
+      "attention_to_detail": "medium"
+    },
+    "gusti_culinari": {
+      "gusti": [
+        "leggero",
+        "vegetariano"
+      ],
+      "piatti_preferiti": [
+        "zuppe",
+        "quinoa salad"
+      ],
+      "allergie": [
+        "lattosio"
+      ]
+    },
+    "brief": "Chiara, 32 anni, infermiera sposata. Navigazione bilanciata. Preferisce piatti leggeri vegetariani. Intollerante al lattosio. UI pulito naturale, evita colori scuri.",
+    "target_group": "adult_18_35",
+    "preferenze_visive": {
+      "colori_preferiti": [
+        "verde",
+        "bianco",
+        "naturale"
+      ],
+      "stile_ui": "pulito naturale",
+      "evita": [
+        "colori scuri",
+        "layout pesante"
+      ],
+      "attention_visual": "bassa (focus su contenuto, meno su estetica)"
+    }
+  },
+  {
+    "persona_id": "PS_adult_18_35_2aa5da25",
+    "bio": {
+      "nome": "Luca Gentile",
+      "eta": 19,
+      "lavoro": "Studente universitario",
+      "stato_familiare": "Single"
+    },
+    "navigation": {
+      "decision_style": "balanced",
+      "patience_level": 0.8,
+      "tech_comfort": "high",
+      "task_oriented": false,
+      "attention_to_detail": "high"
+    },
+    "gusti_culinari": {
+      "gusti": [
+        "internazionale",
+        "tradizionale"
+      ],
+      "piatti_preferiti": [
+        "carbonara",
+        "sushi homemade"
+      ],
+      "allergie": []
+    },
+    "brief": "Luca, 19 anni studente. Esplora con calma ricette internazionali e italiane. Ama sperimentare fusioni culinarie. UI classico familiare, evita neon.",
+    "target_group": "adult_18_35",
+    "preferenze_visive": {
+      "colori_preferiti": [
+        "caldo",
+        "terra",
+        "beige"
+      ],
+      "stile_ui": "classico familiare",
+      "evita": [
+        "neon",
+        "troppo minimalista"
+      ],
+      "attention_visual": "alta (nota dettagli UI, colori in immagini)"
+    }
+  },
+  {
+    "persona_id": "PS_adult_18_35_47ca101f",
+    "bio": {
+      "nome": "Sofia Marinelli",
+      "eta": 30,
+      "lavoro": "Ingegnere",
+      "stato_familiare": "Married"
+    },
+    "navigation": {
+      "decision_style": "balanced",
+      "patience_level": 0.4,
+      "tech_comfort": "high",
+      "task_oriented": true,
+      "attention_to_detail": "medium"
+    },
+    "gusti_culinari": {
+      "gusti": [
+        "gourmet",
+        "mediterraneo"
+      ],
+      "piatti_preferiti": [
+        "tartare di tonno",
+        "gnocchi al pesto"
+      ],
+      "allergie": []
+    },
+    "brief": "Sofia, 30 anni ingegnere sposata. Ricerca efficace ricette gourmet mediterranee. Passione per pesce crudo e pasta fresca. UI elegante raffinato, evita colori vivaci.",
+    "target_group": "adult_18_35",
+    "preferenze_visive": {
+      "colori_preferiti": [
+        "blu mediterraneo",
+        "oro",
+        "bianco"
+      ],
+      "stile_ui": "elegante raffinato",
+      "evita": [
+        "colori vivaci",
+        "font giocosi"
+      ],
+      "attention_visual": "media (nota layout generale, meno dettagli)"
+    }
+  }
+]

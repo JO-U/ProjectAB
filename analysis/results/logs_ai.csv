@@ -1,0 +1,238 @@
+session_id,prototipo,task,task_description,clicks,scrolls,azioni,completed,duration_seconds,selected_recipe,errori
+20260208_150100_prototype_A,A,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",4,1,5,True,73.13,Spaghetti ai Funghi e Speck,0
+20260208_150100_prototype_A,A,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",2,2,4,True,14.79,Pollo con Peperoni e Riso,0
+20260208_150100_prototype_A,A,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",5,1,6,True,34.16,Pollo con Peperoni e Riso,0
+20260208_160215_prototype_B,B,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",2,3,5,True,34.4,Spaghetti ai Funghi e Speck,0
+20260208_160215_prototype_B,B,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",5,4,9,True,56.6,Bistecca di Manzo alla Griglia,0
+20260208_160215_prototype_B,B,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",4,2,6,True,42.7,Maiale Arrosto con Pomodoro,0
+20260204_095120_prototype_A,A,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",4,0,4,True,27.04,Spaghetti Pomodorini e Basilico,0
+20260204_095120_prototype_A,A,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",0,0,0,True,20.53,Pita,0
+20260204_095120_prototype_A,A,task_3,"Confrontate 2 piatti che preferite e dite perchè vi attirano, infine scegietene uno",0,0,0,True,8.08,Nessuna delle due,0
+20260204_115609_prototype_B,B,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",2,0,2,True,20.91,Spaghetti Pomodorini e Basilico,0
+20260204_115609_prototype_B,B,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",2,0,2,True,12.23,Bistecca di Manzo alla Griglia,0
+20260204_115609_prototype_B,B,task_3,"Confrontate 2 piatti che preferite e dite perchè vi attirano, infine sceglietene uno",4,1,5,True,52.78,Foglie di Vite Ripiene,0
+20260208_103313_prototype_A,A,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",4,1,5,True,54.51,Noodles con Maiale e Verdure,0
+20260208_103313_prototype_A,A,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",9,2,11,True,38.15,Bisteccone di Manzo alla Griglia,0
+20260208_103313_prototype_A,A,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",0,0,0,True,66.36,Spaghetti ai Funghi e Speck,0
+20260208_113045_prototype_B,B,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",1,2,3,True,47.46,Spaghetti Funghi e Speck,0
+20260208_113045_prototype_B,B,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",0,6,6,True,52.73,Bistecca di Manzo alla Griglia,0
+20260208_113045_prototype_B,B,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",3,5,8,True,54.46,Crepes con Fragole e Panna,0
+20260204_173844_prototype_A,A,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",1,0,1,True,23.67,Spaghetti Pomodorini e Basilico,0
+20260204_173844_prototype_A,A,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",5,4,9,True,77.76,Pollo con Peperoni e Riso,0
+20260204_173844_prototype_A,A,task_3,"Esplora le ricette, confronta 2 piatti che preferite e di perchè ti attirano, infine scegline uno",7,0,7,True,33.74,Ciabatta con Prosciutto e Ricotta,0
+20260204_220055_prototype_B,B,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",2,0,2,True,36.35,Spaghetti Pomodorini e Basilico,0
+20260204_220055_prototype_B,B,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",0,0,0,True,26.55,Bistecca di Manzo alla Griglia,0
+20260204_220055_prototype_B,B,task_3,"Esplora le ricette, confronta 2 piatti che preferite e di perchè ti attirano, infine scegline uno",12,0,12,True,166.53,Spaghetti ai Funghi e Speck,0
+20260207_193846_prototype_A,A,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",2,1,3,True,24.5,Foglie di Vite Ripiene,0
+20260207_193846_prototype_A,A,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",0,0,0,True,4.18,Foglie di Vite Ripiene,0
+20260207_193846_prototype_A,A,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",3,11,14,True,80.32,Purè di Patate Cremoso,0
+20260207_202846_prototype_B,B,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",2,1,3,True,24.5,Foglie di Vite Ripiene,0
+20260207_202846_prototype_B,B,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",0,0,0,True,4.18,Foglie di Vite Ripiene,0
+20260207_202846_prototype_B,B,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",3,2,5,False,91.54,,0
+20260209_152253_prototype_A,A,task_1,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",1,0,1,False,63.26,,0
+20260209_152253_prototype_A,A,task_2,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",1,0,1,False,103.96,Maiale Arrosto con Pomodoro,0
+20260209_152253_prototype_A,A,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",1,0,1,True,58.25,Ciabatte con Prosciutto e Ricotta,0
+20260209_112300_prototype_B,B,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",4,2,6,True,30.0,Spaghetti con funghi e speck,1
+20260209_112300_prototype_B,B,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",4,3,7,True,29.0,Ramen,1
+20260209_112300_prototype_B,B,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",4,1,5,True,24.0,Bistecca di Manzo alla Griglia,0
+20260208_150100_prototype_A,A,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",4,1,5,True,83.13,Spaghetti ai Funghi e Speck,0
+20260208_150100_prototype_A,A,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",1,0,1,True,136.47,Pollo con Peperoni e Riso,0
+20260208_150100_prototype_A,A,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",0,0,0,True,4.96,Pollo con Peperoni e Riso,0
+20260208_151500_prototype_B,B,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",2,3,5,True,60,Spaghetti ai Funghi e Speck,0
+20260208_151500_prototype_B,B,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",7,5,12,True,59,Bistecca di Manzo alla Griglia,0
+20260208_151500_prototype_B,B,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",6,6,12,True,180,Madlene al Limone,0
+20260205_212953_prototype_A,A,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",2,0,2,True,58.51,Spaghetti ai Funghi e Speck,0
+20260205_212953_prototype_A,A,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",12,1,13,True,108.17,Bistecca di Manzo alla Griglia,0
+20260205_212953_prototype_A,A,task_3,"Esplora le ricette, confronta 2 piatti che preferite e di perchè ti attirano, infine scegline uno",8,0,8,True,77.27,Spaghetti Pomodorini e Basilico,0
+20260206_094740_prototype_B,B,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",3,0,3,True,46.7,Spaghetti Pomodorini e Basilico,0
+20260206_094740_prototype_B,B,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",2,0,2,True,31.63,Bistecca di Manzo alla Griglia,0
+20260206_094740_prototype_B,B,task_3,"Esplora le ricette, confronta 2 piatti che preferite e di perchè ti attirano, infine scegline uno",3,0,3,True,39.0,Spaghetti Pomodorini e Basilico,0
+20260208_225246_prototype_A,A,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",4,0,4,True,12.2,Spaghetti pomodorini e basilico,0
+20260208_225246_prototype_A,A,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",5,2,7,True,28.0,Stufato di uova di quaglia,0
+20260208_225246_prototype_A,A,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",5,1,6,True,14.5,Purè di patate cremoso,0
+20260208_225246_prototype_B,B,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",0,2,2,True,12.67,Ciabatta con Prosciutto e Ricotta,0
+20260208_225246_prototype_B,B,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",5,1,6,True,86.69,Pollo con Peperoni e Riso,0
+20260208_225246_prototype_B,B,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",1,7,8,True,46.51,"Yogurt Melagrana, Cereali, Fichi",0
+20260204_235530_prototype_A,A,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",0,0,0,True,118.82,Noodles con Maiale e Verdure,0
+20260204_235530_prototype_A,A,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",6,0,6,True,81.44,Pollo con Peperoni e Riso,0
+20260204_235530_prototype_A,A,task_3,"Esplora le ricette, confronta 2 piatti che preferite e di perchè ti attirano, infine scegline uno",6,0,6,True,93.47,Pita,0
+20260205_102931_prototype_B,B,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",3,4,7,True,34.59,Spaghetti Pomodorini e Basilico,1
+20260205_102931_prototype_B,B,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",1,7,8,True,68.32,Pollo con Peperoni e Riso,0
+20260205_102931_prototype_B,B,task_3,"Esplora le ricette, confronta 2 piatti che preferite e di perchè ti attirano, infine scegline uno",1,6,7,True,36.01,Tiramisu,0
+20260207_132756_prototype_A,A,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",4,0,4,True,24.45,Spaghetti Speck e Funghi,0
+20260207_132756_prototype_A,A,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",3,0,3,True,30.12,Pita,0
+20260207_132756_prototype_A,A,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",7,0,7,True,43.02,Pollo con Peperoni e Riso,0
+20260207_215245_prototype_B,B,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",2,1,3,True,24.5,Foglie di Vite Ripiene,0
+20260207_215245_prototype_B,B,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",0,0,0,True,4.18,Foglie di Vite Ripiene,0
+20260207_215245_prototype_B,B,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",0,5,5,True,149.5,"Yogurt Melagrana, Cereali, Fichi",0
+20260207_233319_prototype_B,B,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",2,1,3,True,15.93,Foglie di Vite Ripiene,0
+20260207_233319_prototype_B,B,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",10,2,12,True,85.91,Bistecca di Manzo alla Griglia,0
+20260207_233319_prototype_B,B,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",1,6,7,True,40.83,Tiramisù,0
+20260207_233319_prototype_B,B,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",2,1,3,True,20.23,Foglie di Vite Ripiene,0
+20260207_233319_prototype_B,B,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",6,3,9,False,159.87,,0
+20260207_233319_prototype_B,B,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",0,1,1,True,5.97,Stufato di uova di quaglia,0
+20260206_095530_prototype_A,A,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",4,0,4,True,55.37,Spaghetti ai Funghi e Speck,0
+20260206_095530_prototype_A,A,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",8,1,9,True,141.98,Stufato di Uova di Quaglia,0
+20260206_095530_prototype_A,A,task_3,"Esplora le ricette, confronta 2 piatti che preferite e di perchè ti attirano, infine scegline uno",3,0,3,True,138.66,Spaghetti Pomodorini e Basilico,0
+20260206_103108_prototype_B,B,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",3,0,3,True,61.34,Spaghetti Pomodorini e Basilico,0
+20260206_103108_prototype_B,B,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",2,0,2,True,32.4,Bistecca di Manzo alla Griglia,0
+20260206_103108_prototype_B,B,task_3,"Esplora le ricette, confronta 2 piatti che preferite e di perchè ti attirano, infine scegline uno",0,0,0,True,83.99,Spaghetti Pomodorini e Basilico,0
+20260208_114329_prototype_A,A,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",6,2,8,True,75.41,Spaghetti ai Funghi e Speck,0
+20260208_114329_prototype_A,A,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",1,0,1,True,91.86,Pollo con Peperoni e Riso,0
+20260208_114329_prototype_A,A,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",0,1,1,True,6.13,Pollo con Peperoni e Riso,0
+20260208_120412_prototype_B,B,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",1,3,4,True,27.25,Spaghetti Funghi e Speck,0
+20260208_120412_prototype_B,B,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",1,5,6,True,45.8,Stufato di Uova di Quaglia,0
+20260208_120412_prototype_B,B,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",1,4,5,True,48.67,Pita,0
+20260206_182011_prototype_A,A,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",2,0,2,True,133.16,Spaghetti ai Funghi e Speck,0
+20260206_182011_prototype_A,A,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",6,1,7,True,221.06,Bistecca di Manzo alla Griglia,0
+20260206_182011_prototype_A,A,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",0,2,2,False,470.97,,0
+20260206_182040_prototype_B,B,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",4,3,7,True,111.04,Spaghetti Pomodorini e Basilico,0
+20260206_182040_prototype_B,B,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",2,1,3,True,95.08,Pollo con Peperoni e Riso,0
+20260206_182040_prototype_B,B,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",0,13,13,True,188.06,"Yogurt Melagrana, Cereali, Fichi",0
+20260206_182011_prototype_A,A,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",2,0,2,True,133.16,Spaghetti ai Funghi e Speck,0
+20260206_182011_prototype_A,A,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",6,1,7,True,221.06,Bistecca di Manzo alla Griglia,0
+20260206_182011_prototype_A,A,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",14,0,14,True,380.62,Zuppa di Formaggio in Tazza,0
+20260206_233531_prototype_B,B,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",4,3,7,True,111.04,Spaghetti Pomodorini e Basilico,0
+20260206_233531_prototype_B,B,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",2,1,3,True,95.08,Pollo con Peperoni e Riso,0
+20260206_233531_prototype_B,B,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",2,8,10,True,141.36,Pancakes,0
+20260208_105358_prototype_A,A,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",5,0,5,True,50.28,Spaghetti Pomodorini e Basilico,0
+20260208_105358_prototype_A,A,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",6,3,9,True,86.3,Bistecca di Manzo alla Griglia,0
+20260208_105358_prototype_A,A,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",5,2,7,True,54.2,Tortellini Rossi e Classici,0
+20260208_105358_prototype_B,B,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",4,0,4,True,90.23,Spaghetti Pomodorini e Basilico,0
+20260208_105358_prototype_B,B,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",2,1,3,True,54.3,Bistecca di Manzo alla Griglia,0
+20260208_105358_prototype_B,B,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",1,3,4,True,98.0,Pollo con Peperoni e Riso,0
+20260208_150800_prototype_B,B,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",4,0,4,True,72.2,Spaghetti Pomodorini e Basilico,0
+20260208_150800_prototype_B,B,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",3,0,3,True,65.7,Pita,0
+20260208_150800_prototype_B,B,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",6,2,8,True,93.5,Stufato di Uova di Quaglia,0
+20260208_143147_prototype_B,B,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",2,4,6,True,54.48,Spaghetti ai Funghi e Speck,0
+20260208_143147_prototype_B,B,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",11,9,20,True,112.91,Bistecca di Manzo alla Griglia,0
+20260208_143147_prototype_B,B,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",6,6,12,True,57.0,Madlene al Limone,0
+20260207_133329_prototype_A,A,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",1,2,3,True,39.91,Rad Na,0
+20260207_133329_prototype_A,A,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",1,2,3,True,31.05,Bistecca di manzo alla Griglia,0
+20260207_133329_prototype_A,A,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",4,4,8,True,52.87,Tiramisù,0
+20260207_133329_prototype_B,B,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",1,3,4,True,179.5,Spaghetti con i Funghi e Speck,0
+20260207_133329_prototype_B,B,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",0,4,4,True,240.0,Bistecca di Manzo alla Griglia,0
+20260207_133329_prototype_B,B,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",0,3,3,True,300.0,Tom Yum di Ossa di Maiale,0
+20260207_155310_prototype_A,A,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",2,0,2,True,24.34,Spaghetti Pomodorini e Basilico,0
+20260207_155310_prototype_A,A,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",17,3,20,True,250.6,Zuppa Piccante con Pollo,0
+20260207_155310_prototype_A,A,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",6,2,8,True,194.59,Maiale Arrosto con Pomodoro,0
+20260207_155312_prototype_B,B,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",0,0,0,True,73.4,Ciabatta con Prosciutto e Ricotta,0
+20260207_155312_prototype_B,B,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",0,1,1,True,126.94,Bistecca di Manzo alla Griglia,0
+20260207_155312_prototype_B,B,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",6,7,13,True,170.99,Yogurt Melagrana Cereali e Fichi,0
+20260208_143147_prototype_A,A,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",0,0,0,True,46.23,Spaghetti Pomodorini e Basilico,0
+20260208_143147_prototype_A,A,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",3,2,5,True,41.35,Bistecca di Manzo alla Griglia,0
+20260208_143147_prototype_A,A,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",4,2,6,True,109.08,Noodles con Maiale e Verdure,0
+20260208_160500_prototype_A,A,task_1,"Trovate un Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min(pasta, zuppa, ramen) con tempo <50min",4,4,8,True,61,Spaghetti Funghi e Speck,0
+20260208_160500_prototype_A,A,task_2,"Trovate un Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA (carne, side-dish) con difficoltà MEDIA",6,4,10,True,43,Pollo con Peperoni e Riso,0
+20260208_160500_prototype_A,A,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",7,5,12,True,60,Tom Yum con ossa di maiale,0
+20260206_133908_prototype_A,A,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",4,0,4,True,58.18,Spaghetti ai Funghi e Speck,0
+20260206_133908_prototype_A,A,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",5,0,5,True,86.62,Pollo con Peperoni e Riso,0
+20260206_133908_prototype_A,A,task_3,"Esplora le ricette, confronta 2 piatti che preferite e di perchè ti attirano, infine scegline uno",10,0,10,True,95.96,Ciabatta con Prosciutto e Ricotta,0
+20260206_141659_prototype_B,B,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",4,0,4,True,55.59,Spaghetti Pomodorini e Basilico,0
+20260206_141659_prototype_B,B,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",3,0,3,True,58.59,Bistecca di Manzo alla Griglia,0
+20260206_141659_prototype_B,B,task_3,"Esplora le ricette, confronta 2 piatti che preferite e di perchè ti attirano, infine scegline uno",3,0,3,True,199.17,Bocconcini di Mozzarella Marinati,1
+20260208_095504_prototype_A,A,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",5,1,6,True,52.5,Spaghetti ai Funghi e Speck,1
+20260208_095504_prototype_A,A,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",8,0,8,True,63.81,Bistecca di Manzo alla Griglia,0
+20260208_095504_prototype_A,A,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",6,2,8,True,41.76,Torta di Carote,0
+20260208_095504_prototype_B,B,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",2,3,5,True,75.0,Spaghetti Pomodorini e Basilico,0
+20260208_095504_prototype_B,B,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",3,2,5,True,80.0,Bistecca di Manzo alla Griglia,0
+20260208_095504_prototype_B,B,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",3,2,5,True,58.0,Pollo con Peperoni e Riso,0
+20260209_101500_prototype_A,A,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",2,3,5,True,35.0,Spaghetti con Funghi e Speck,0
+20260209_101500_prototype_A,A,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",2,5,7,True,39.0,Bistecca di Manzo alla Griglia,0
+20260209_101500_prototype_A,A,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",4,5,9,True,5.0,Torta di Carote,0
+20260208_225246_prototype_A,A,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",5,3,8,True,94.76,Zuppa di Formaggio in Tazza,0
+20260208_225246_prototype_A,A,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",0,1,1,True,23.63,Pollo con Peperoni e Riso,0
+20260208_225246_prototype_A,A,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",1,2,3,False,4.0,,0
+20260204_151936_prototype_A,A,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",0,0,0,True,17.51,Maiale Arrosto con Pomodoro,0
+20260204_151936_prototype_A,A,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",1,3,4,False,44.84,,0
+20260204_151936_prototype_A,A,task_3,"Esplora le ricette, confronta 2 piatti che preferite e di perché ti attirano, infine scegline uno",0,2,2,True,12.96,Tagliere di Salumi e Formaggi,0
+20260204_172731_prototype_B,B,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",1,2,3,True,19.21,Foglie di vite ripiene,0
+20260204_172731_prototype_B,B,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",0,0,0,True,20.3,Pita,0
+20260204_172731_prototype_B,B,task_3,"Esplora le ricette, confronta 2 piatti che preferite e di perchè ti attirano, infine scegline uno",0,9,9,True,67.79,Zuppa Piccante con Pollo,0
+20260209_093109_prototype_A,A,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",5,2,7,True,50.79,Spaghetti ai Funghi e Speck,0
+20260209_093109_prototype_A,A,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",1,1,2,True,7.3,Pollo con Peperoni e Riso,0
+20260209_093109_prototype_A,A,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",3,2,5,True,9.2,Pancake Miele e Frutti di Bosco,0
+20260209_095358_prototype_B,B,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",10,2,12,True,92.98,Spaghetti ai funghi e speck,0
+20260209_095358_prototype_B,B,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",1,3,4,True,21.5,Pollo con Peperoni e Riso,0
+20260209_095358_prototype_B,B,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",4,2,6,True,19.5,Pita,0
+20260206_160000_prototype_A,A,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",1,2,3,True,13,Spaghetti Pomodorini e Basilico,0
+20260206_160000_prototype_A,A,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",1,1,2,True,5,Pollo con Peperoni e Riso,0
+20260206_160000_prototype_A,A,task_3,"Confrontate 2 piatti che preferite e dite perchè vi attirano, infine scegietene uno",1,3,4,True,11,Yogurt Melagrana Cereali Fichi,0
+20260206_161800_prototype_B,B,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",3,3,6,True,17,Spaghetti Funghi e Speck,0
+20260206_161800_prototype_B,B,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",0,3,3,True,10,Bistecca di Manzo alla Griglia,0
+20260206_161800_prototype_B,B,task_3,"Confrontate 2 piatti che preferite e dite perchè vi attirano, infine scegietene uno",0,3,3,True,9,Zuppa Piccante con Pollo,0
+20260208_194622_prototype_A,A,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",5,0,5,True,71.3,Spaghetti ai Funghi e Speck,0
+20260208_194622_prototype_A,A,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",9,1,10,True,104.1,Bistecca di Manzo alla Griglia,0
+20260208_194622_prototype_A,A,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",6,0,6,True,38,Zuppa Piccante con Pollo,0
+20260208_194622_prototype_B,B,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",5,0,5,True,71.3,Spaghetti ai Funghi e Speck,0
+20260208_194622_prototype_B,B,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",9,1,10,True,104.1,Bistecca di Manzo alla Griglia,0
+20260208_194622_prototype_B,B,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",6,0,6,True,38,Zuppa Piccante con Pollo,0
+20260209_160419_prototype_A,A,task_1,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",1,0,1,True,80.5,Bocconcini di Mozzarella Marinati,0
+20260209_115123_prototype_B,B,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",1,3,4,True,32.0,Spaghetti ai Funghi e Speck,0
+20260209_115123_prototype_B,B,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",0,0,0,True,12.56,Foglie di vite ripiene,0
+20260209_115123_prototype_B,B,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",3,3,6,True,21.0,tortellini rossi e classici,0
+20260207_193846_prototype_A,A,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",0,0,0,True,146.02,Spaghetti ai Funghi e Speck,0
+20260207_193846_prototype_A,A,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",8,5,13,True,165.58,Pollo con Peperoni e Riso,0
+20260207_193846_prototype_A,A,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",3,1,4,True,340.1,Foglie di vite ripiene,1
+20260207_193846_prototype_B,B,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",0,0,0,True,146.02,Spaghetti ai Funghi e Speck,0
+20260207_193846_prototype_B,B,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",8,5,13,True,165.58,Pollo con Peperoni e Riso,0
+20260207_193846_prototype_B,B,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",5,2,7,True,382.42,Spaghetti Pomodorini e Basilico,0
+20260207_155310_prototype_A,A,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",2,0,2,True,24.34,Spaghetti Pomodorini e Basilico,0
+20260207_155310_prototype_A,A,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",17,3,20,True,250.6,Zuppa Piccante con Pollo,0
+20260207_155310_prototype_A,A,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",7,7,14,True,194.59,Maiale Arrosto con Pomodoro,0
+20260207_156110_prototype_B,B,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",0,0,0,True,73.4,Ciabatta con Prosciutto e Ricotta,0
+20260207_156110_prototype_B,B,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",0,1,1,True,126.94,Bistecca di Manzo alla Griglia,0
+20260207_156110_prototype_B,B,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",0,1,1,True,170.99,Ciabatta con Prosciutto e Ricotta,0
+20260205_130223_prototype_A,A,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",10,0,10,True,130.33,Noodles con Maiale e Verdure,0
+20260205_130223_prototype_A,A,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",4,6,10,True,38.1,Maiale Arrosto con Pomodoro,1
+20260205_130223_prototype_A,A,task_3,"Esplora le ricette, confronta 2 piatti che preferite e di perchè ti attirano, infine scegline uno",2,0,2,True,9.13,Zuppa Piccante con Pollo,0
+20260205_143551_prototype_B,B,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",8,1,9,True,164.8,Rad Na,0
+20260205_143551_prototype_B,B,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",1,0,1,True,161.74,Bistecca di Manzo alla Griglia,0
+20260205_143551_prototype_B,B,task_3,"Esplora le ricette, confronta 2 piatti che preferite e di perchè ti attirano, infine scegline uno",11,0,11,True,119.54,Pancake,0
+20260207_132756_prototype_A,A,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",3,0,3,True,165.42,Spaghetti Pomodorini e Basilico,0
+20260207_132756_prototype_A,A,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",3,1,4,True,209.89,Bistecca di Manzo alla Griglia,0
+20260207_132756_prototype_A,A,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",5,1,6,True,236.7,Maiale Arrosto con Pomodoro,0
+20260207_215245_prototype_B,B,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",2,1,3,True,24.5,Foglie di Vite Ripiene,0
+20260207_215245_prototype_B,B,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",0,0,0,True,4.18,Foglie di Vite Ripiene,0
+20260207_215245_prototype_B,B,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",9,16,25,True,292.23,Bocconcini di Mozzarella Marinati,0
+20260208_211407_prototype_A,A,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",1,2,3,True,20.53,Zuppa di Formaggio in Tazza,0
+20260208_211407_prototype_A,A,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",1,2,3,True,20.78,Pollo con Peperoni e Riso,0
+20260208_211407_prototype_A,A,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",6,3,9,True,21.5,"Yogurt melagrana, cereali e fichi",0
+20260208_194622_prototype_B,B,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",3,4,7,True,80.49,Foglie di vite ripiene,0
+20260208_194622_prototype_B,B,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",2,2,4,True,27.31,Rad Na,0
+20260208_194622_prototype_B,B,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",4,4,8,True,23.0,Pancake miele e frutti di bosco,0
+20260206_162948_prototype_A,A,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",4,0,4,True,47.97,Spaghetti Pomodorini e Basilico,0
+20260206_162948_prototype_A,A,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",2,0,2,True,16.91,Back,0
+20260206_162948_prototype_A,A,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",6,1,7,False,43.34,,0
+20260206_162948_prototype_B,B,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",1,0,1,True,47.97,Spaghetti ai Funghi e Speck,0
+20260206_162948_prototype_B,B,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",5,0,5,True,55.96,Pollo con Peperoni e Riso,0
+20260206_162948_prototype_B,B,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",5,2,7,True,44.21,Waffle con Frutti di Bosco,0
+20260208_190551_prototype_A,A,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",4,1,5,True,64.22,Spaghetti ai Funghi e Speck,0
+20260208_190551_prototype_A,A,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",9,2,11,True,73.67,Bistecca di Manzo alla Griglia,0
+20260208_150100_prototype_B,B,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",0,0,0,False,119.23,,0
+20260208_150100_prototype_B,B,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",2,2,4,True,42.79,Rad Na,0
+20260208_150100_prototype_B,B,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",5,5,10,True,81.39,Pancake al Miele e Frutti di Bosco,0
+20260207_002607_prototype_A,A,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",4,0,4,True,38.35,Spaghetti Pomodorini e Basilico,0
+20260207_002607_prototype_A,A,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",7,0,7,True,47.36,Pita Ripiena,0
+20260207_002607_prototype_A,A,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",6,1,7,True,47.97,Foglie di Vita Ripiene,0
+20260207_002607_prototype_B,B,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",3,0,3,True,35.32,Spaghetti Pomodorini e Basilico,0
+20260207_002607_prototype_B,B,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",1,1,2,True,29.78,Bistecca di Manzo alla Griglia,0
+20260207_002607_prototype_B,B,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",3,2,5,True,53.4,Pollo Peperoni e Riso,0
+20260204_134921_prototype_A,A,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",0,0,0,True,19.07,Spaghetti Pomodorini e Basilico,0
+20260204_134921_prototype_A,A,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",0,0,0,True,11.96,Pollo con Peperoni e Riso,0
+20260204_134921_prototype_A,A,task_3,"Esplora le ricette, confronta 2 piatti che preferite e dite perché vi attirano, infine scegliete uno",0,0,0,True,69.4,Pollo con Peperoni e Riso,0
+20260204_141444_prototype_B,B,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",0,0,0,True,44.75,Spaghetti Pomodorini e Basilico,0
+20260204_141444_prototype_B,B,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",0,4,4,False,87.55,,0
+20260204_141444_prototype_B,B,task_3,"Esplora le ricette, confronta 2 piatti che preferite e dite perché vi attirano, infine scegliete uno",0,0,0,True,3.2,Ramen,0
+20260206_150052_prototype_A,A,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",3,0,3,True,39.0,Spaghetti Pomodorini e Basilico,0
+20260206_150052_prototype_A,A,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",1,3,4,True,36.84,Bistecca di Manzo alla Griglia,0
+20260206_150052_prototype_A,A,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",13,0,13,True,131.6,Stufato di Uova di Quaglia,1
+20260206_150618_prototype_B,B,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",3,0,3,True,28.55,Spaghetti Pomodorini e Basilico,0
+20260206_150618_prototype_B,B,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",1,3,4,True,60,Bistecca di Manzo alla Griglia,0
+20260206_150618_prototype_B,B,task_3,"Esplora il sito, confronta 2 piatti che preferisci, di perchè ti attirano, infine scegline uno",10,2,12,True,59,Stufato di Uova di Quaglia,1
+20260205_182624_prototype_A,A,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",0,0,0,True,44.4,Spaghetti ai Funghi e Speck,0
+20260205_182624_prototype_A,A,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",3,1,4,True,184.31,Stufato di Uova di Quaglia,0
+20260205_182624_prototype_A,A,task_3,"Esplora le ricette, confronta 2 piatti che preferite e di perchè ti attirano, infine scegline uno",3,0,3,True,60.29,Pollo con Peperoni e Riso,0
+20260205_193529_prototype_B,B,task_1,"Trovate un PRIMO PIATTO (pasta, zuppa, ramen) con tempo <50min",3,0,3,True,28.64,Spaghetti Pomodorini e Basilico,0
+20260205_193529_prototype_B,B,task_2,"Trovate un SECONDO PIATTO (carne, side-dish) con difficoltà MEDIA",1,0,1,True,47.64,Bistecca di Manzo alla Griglia,0
+20260205_193529_prototype_B,B,task_3,"Esplora le ricette, confronta 2 piatti che preferite e di perchè ti attirano, infine scegline uno",11,1,12,True,106.5,Stufato di Uova di Quaglia,0

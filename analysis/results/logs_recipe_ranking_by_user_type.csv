@@ -1,0 +1,13 @@
+user_type,prototipo,task_key,top_recipes
+ai,A,task_1,"[('Spaghetti ai Funghi e Speck', 14), ('Spaghetti Pomodorini e Basilico', 12), ('Noodles con Maiale e Verdure', 3), ('Zuppa di Formaggio in Tazza', 2), ('Foglie di Vite Ripiene', 1)]"
+ai,A,task_2,"[('Pollo con Peperoni e Riso', 13), ('Bistecca di Manzo alla Griglia', 11), ('Pita', 2), ('Maiale Arrosto con Pomodoro', 2), ('Stufato di Uova di Quaglia', 2)]"
+ai,A,task_3,"[('Pollo con Peperoni e Riso', 6), ('Maiale Arrosto con Pomodoro', 3), ('Ciabatta con Prosciutto e Ricotta', 2), ('Spaghetti Pomodorini e Basilico', 2), ('Torta di Carote', 2)]"
+ai,B,task_1,"[('Spaghetti Pomodorini e Basilico', 15), ('Spaghetti ai Funghi e Speck', 7), ('Foglie di Vite Ripiene', 5), ('Spaghetti Funghi e Speck', 3), ('Ciabatta con Prosciutto e Ricotta', 3)]"
+ai,B,task_2,"[('Bistecca di Manzo alla Griglia', 21), ('Pollo con Peperoni e Riso', 7), ('Foglie di Vite Ripiene', 3), ('Pita', 2), ('Rad Na', 2)]"
+ai,B,task_3,"[('Spaghetti Pomodorini e Basilico', 3), ('Yogurt Melagrana, Cereali, Fichi', 3), ('Stufato di Uova di Quaglia', 3), ('Zuppa Piccante con Pollo', 3), ('Madlene al Limone', 2)]"
+umano,A,task_1,"[('Spaghetti Funghi e Speck', 13), ('Spaghetti Pomodorini e Basilico', 6), ('Noodles con Maiale e Verdure', 6), ('Zuppa con funghi', 5), ('Ramen', 4)]"
+umano,A,task_2,"[('Pita', 9), ('Bistecca di Manzo', 7), ('Ramen', 6), ('Stufato di Uova di Quaglia', 6), ('Foglie di Vite', 6)]"
+umano,A,task_3,"[('Pollo peperoni e riso', 10), ('Spaghetti Funghi e Speck', 6), ('Tiramisù', 4), ('Yogurt melagrano', 4), ('Madeline', 3)]"
+umano,B,task_1,"[('Spaghetti Funghi e Speck', 12), ('Spaghetti Pomodorini e Basilico', 11), ('Rad Na', 5), ('Pasta Bolognese', 5), ('Noodles con Maiale e Verdure', 3)]"
+umano,B,task_2,"[('Bistecca di Manzo', 10), ('Stufato di Uova di Quaglia', 10), ('Foglie di Vite', 5), ('Zuppa Piccante con Pollo', 4), ('Ramen', 3)]"
+umano,B,task_3,"[('Tiramisù', 6), ('Tortellini classici e rossi', 5), ('Pad Tai', 5), ('Biscotti Arancia e Cioccolato', 4), ('Zuppa di Formaggio in tazza', 3)]"

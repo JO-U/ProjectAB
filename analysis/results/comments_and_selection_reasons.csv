@@ -1,0 +1,221 @@
+session_id,task_key,notes,selection_reason
+20260208_150100_prototype_A,task_1,,"Il piatto 'Spaghetti ai Funghi e Speck' è un primo piatto (pasta) con un tempo di preparazione di 20 minuti, che rientra nel limite di tempo richiesto (<50 minuti)."
+20260208_150100_prototype_A,task_2,,"Ho scelto 'Pollo con Peperoni e Riso' perché è un secondo piatto semplice e veloce, adatto al task."
+20260208_150100_prototype_A,task_3,,Ho scelto 'Pollo con Peperoni e Riso' perché è un piatto che conosco già e mi sembra sicuro e completo.
+20260208_160215_prototype_B,task_1,,È un primo piatto classico con tempo di preparazione inferiore ai 50 minuti.
+20260208_160215_prototype_B,task_2,,È un secondo piatto di carne con difficoltà media e preparazione diretta.
+20260208_160215_prototype_B,task_3,,"Rispetto al pollo con peperoni è più ricco e interessante come piatto principale, pur restando semplice."
+20260208_103313_prototype_A,task_1,,"Noodles con Maiale e Verdure ha un tempo di preparazione di 25 minuti, che rientra nel limite di tempo richiesto."
+20260208_103313_prototype_A,task_2,,È un secondo piatto di carne e non ho altre opzioni disponibili.
+20260208_103313_prototype_A,task_3,,"Non ci sono altre ricette visualizzate e devo scegliere un piatto. Questo piatto sembra interessante, ma non è adatto a me perché contiene glutine e carne."
+20260208_113045_prototype_B,task_1,,"Il tempo di preparazione indicato è di 15 minuti, rientrando nel limite richiesto."
+20260208_113045_prototype_B,task_2,,La ricetta è classificata come difficoltà media.
+20260208_113045_prototype_B,task_3,,"È un piatto semplice e invitante, scelto dopo aver escluso alternative contenenti latticini non adatti."
+20260204_173844_prototype_A,task_1,,"Gli Spaghetti Pomodorini e Basilico hanno un tempo di preparazione di 15 minuti, inferiore ai 50 minuti richiesti. Sembra un piatto semplice e salutare, adatto ad Anna."
+20260204_173844_prototype_A,task_2,,"Il Pollo con Peperoni e Riso è un secondo piatto bilanciato e salutare, con difficoltà media."
+20260204_173844_prototype_A,task_3,,"La Ciabatta con Prosciutto e Ricotta è un piatto semplice, appetitoso e classico. Combina ingredienti di qualità che mi piacciono molto."
+20260204_220055_prototype_B,task_1,,"Gli Spaghetti Pomodorini e Basilico hanno un tempo di preparazione di 15 minuti, che rientra nel limite di tempo richiesto di meno di 50 minuti."
+20260204_220055_prototype_B,task_2,,"La ricetta della bistecca di manzo alla griglia ha difficoltà media ed è un secondo piatto di carne, come richiesto dal task."
+20260204_220055_prototype_B,task_3,," Scelgo gli spaghetti ai funghi e speck perché sembrano più leggeri e interessanti rispetto alla bistecca, pur restando un primo piatto adatto ai miei gusti."
+20260207_193846_prototype_A,task_1,,"Il piatto 'Foglie di Vite Ripiene' ha un tempo di preparazione di 40 minuti, che rientra nel limite massimo di 50 minuti richiesto dal task. Non ho preferenze personali da considerare, quindi questo piatto soddisfa i requisiti."
+20260207_193846_prototype_A,task_2,,"La ricetta 'Foglie di Vite Ripiene' ha una difficoltà media, che soddisfa il requisito principale del task. Inoltre, sembra un piatto interessante e diverso dal solito."
+20260207_193846_prototype_A,task_3,,"Ho scelto il purè di patate cremoso perché è un piatto vegetariano, con una difficoltà facile e un tempo di preparazione di soli 30 minuti. Si adatta bene alle mie preferenze per piatti semplici e veloci, e il sapore cremoso mi incuriosisce."
+20260207_202846_prototype_B,task_1,,"Il piatto 'Foglie di Vite Ripiene' ha un tempo di preparazione di 40 minuti, che rientra nel limite massimo di 50 minuti richiesto dal task. Non ho preferenze personali da considerare, quindi questo piatto soddisfa i requisiti."
+20260207_202846_prototype_B,task_2,,"La ricetta 'Foglie di Vite Ripiene' ha una difficoltà media, che soddisfa il requisito principale del task. Inoltre, sembra un piatto interessante e diverso dal solito."
+20260207_202846_prototype_B,task_3,,
+20260209_152253_prototype_A,task_1,,
+20260209_152253_prototype_A,task_2,,Il piatto sembra gustoso e adatto alla difficoltà media richiesta dal task.
+20260209_152253_prototype_A,task_3,,Mi attira la combinazione di ingredienti e sembra un piatto semplice da preparare.
+20260209_112300_prototype_B,task_1,,È un primo piatto conforme al task e visivamente appetibile.
+20260209_112300_prototype_B,task_2,,Scelto come alternativa compatibile dopo esclusione di altre opzioni.
+20260209_112300_prototype_B,task_3,,Scelta finale per appetibilità e chiarezza della ricetta.
+20260208_150100_prototype_A,task_1,,"Il piatto 'Spaghetti ai Funghi e Speck' è un primo piatto (pasta) con un tempo di preparazione di 20 minuti, che rientra nel limite di tempo richiesto (<50 minuti)."
+20260208_150100_prototype_A,task_2,,"Il piatto 'Pollo con Peperoni e Riso' ha una difficoltà media, come richiesto dal task. Il tempo di preparazione è di 35 minuti, il che lo rende una scelta ragionevole."
+20260208_150100_prototype_A,task_3,,"Ho scelto questo piatto perché è veloce da preparare (35 minuti), ha ingredienti semplici e familiari, non contiene frutta secca (importante per la mia allergia) ed è un piatto unico completo, ideale per una cena in famiglia."
+20260208_151500_prototype_B,task_1,,Ho scelto gli Spaghetti ai Funghi e Speck perché sono un primo piatto veloce e visivamente chiaro nella lista.
+20260208_151500_prototype_B,task_2,,"Dopo aver scartato Rad Na e verificato altri piatti, ho scelto la Bistecca di Manzo alla Griglia come secondo di carne con difficoltà media."
+20260208_151500_prototype_B,task_3,,"Ho confrontato piatti dolci e salati, scegliendo le Madlene al Limone per la loro semplicità, familiarità e visibilità chiara nella lista."
+20260205_212953_prototype_A,task_1,,"La ricetta degli Spaghetti ai Funghi e Speck ha un tempo di preparazione di 20 minuti, che soddisfa il requisito di essere inferiore a 50 minuti. La difficoltà è facile."
+20260205_212953_prototype_A,task_2,,"Ho scelto la Bistecca di Manzo alla Griglia perché è un secondo piatto di carne semplice e di difficoltà media, come richiesto dal task."
+20260205_212953_prototype_A,task_3,,"Ho già visto questa ricetta e mi sembra adatta alle mie esigenze: è un piatto vegetariano, leggero, veloce da preparare (15 minuti) e non contiene lattosio. Gli ingredienti sono semplici e facilmente reperibili."
+20260206_094740_prototype_B,task_1,,"Gli Spaghetti Pomodorini e Basilico hanno un tempo di preparazione di 25 minuti, inferiore al limite di 50 minuti richiesto. Inoltre, la ricetta sembra semplice e veloce da preparare."
+20260206_094740_prototype_B,task_2,,"Ho scelto la bistecca di manzo alla griglia perché è un secondo piatto e ha una difficoltà media, come richiesto dal task. Il tempo di preparazione sembra ragionevole (25 minuti)."
+20260206_094740_prototype_B,task_3,,"Gli spaghetti pomodorini e basilico sono un piatto vegetariano, leggero e veloce da preparare (25 minuti). Inoltre, gli ingredienti sono semplici e adatti alla mia alimentazione, dato che non contengono lattosio. La descrizione 'classico piatto italiano fresco e leggero' mi invoglia a provarlo."
+20260208_225246_prototype_A,task_1,,"Rispetta il vincolo di tempo e tipologia, sembra gustoso."
+20260208_225246_prototype_A,task_2,,Secondo piatto con difficoltà media.
+20260208_225246_prototype_A,task_3,,"Piacevole, vegetariano e adatto come secondo o contorno."
+20260208_225246_prototype_B,task_1,,"Ho scelto questa ricetta perché è un primo piatto (anche se insolito) e richiede solo 15 minuti di preparazione, rispettando il vincolo del tempo massimo di 50 minuti."
+20260208_225246_prototype_B,task_2,,"Ho scelto questo piatto perché è un secondo piatto di carne con difficoltà media, come richiesto dal task. L'ho già vista, quindi non devo cliccarci di nuovo."
+20260208_225246_prototype_B,task_3,,"Scelto per la rapidità, ingredienti adatti e preferenza personale."
+20260204_235530_prototype_A,task_1,,"La ricetta 'Noodles con Maiale e Verdure' ha un tempo di preparazione di 25 minuti, inferiore al limite di 50 minuti richiesto dal task. È un primo piatto (noodles)."
+20260204_235530_prototype_A,task_2,,"Secondo piatto di carne con difficoltà media, soddisfa i requisiti del task"
+20260204_235530_prototype_A,task_3,,"Ho confrontato il Tacchino Natalizio, il Pollo con Peperoni e Riso, e la Pita. La Pita è la più adatta perché è leggera, veloce da preparare, e potenzialmente priva di lattosio"
+20260205_102931_prototype_B,task_1,,"Gli Spaghetti Pomodorini e Basilico sono un primo piatto (pasta) con un tempo di preparazione di 15 minuti, quindi inferiore a 50 minuti."
+20260205_102931_prototype_B,task_2,,Pollo con Peperoni e Riso è un secondo piatto di carne che soddisfa il criterio di difficoltà media richiesto dal task.
+20260205_102931_prototype_B,task_3,,Tiramisu è un dolce classico italiano che rappresenta una scelta naturale tra le opzioni esplorate durante la sessione.
+20260207_132756_prototype_A,task_1,,Scelgo 'Spaghetti Speck e Funghi' perché rientra nel limite di 50 minuti e sembra veloce da preparare.
+20260207_132756_prototype_A,task_2,,"Ho scelto 'Pita' perché è un secondo piatto di difficoltà media, come richiesto dal task."
+20260207_132756_prototype_A,task_3,,Ho confrontato 'Tacchino Natalizio' e 'Pollo con Peperoni e Riso' e scelto quest'ultimo per preparazione più semplice e gusto mediterraneo.
+20260207_215245_prototype_B,task_1,,"Il piatto 'Foglie di Vite Ripiene' ha un tempo di preparazione di 40 minuti, che rientra nel limite massimo di 50 minuti richiesto dal task. Non ho preferenze personali da considerare, quindi questo piatto soddisfa i requisiti."
+20260207_215245_prototype_B,task_2,,"La ricetta 'Foglie di Vite Ripiene' ha una difficoltà media, che soddisfa il requisito principale del task. Inoltre, sembra un piatto interessante e diverso dal solito."
+20260207_215245_prototype_B,task_3,,"Scelgo lo Yogurt Melagrana, Cereali, Fichi perché è veloce da preparare (5 minuti), ha una difficoltà facile, e sembra un'opzione sana e gustosa con ingredienti che mi piacciono (melograno e fichi). Inoltre, non contiene ingredienti che voglio evitare come latticini in eccesso o uova."
+20260207_233319_prototype_B,task_1,,"Le Foglie di Vite Ripiene sono un primo piatto (contiene riso), il tempo di preparazione è di 40 minuti, quindi inferiore ai 50 minuti richiesti."
+20260207_233319_prototype_B,task_2,,"La Bistecca di Manzo alla Griglia è un secondo piatto a base di carne, e la difficoltà è media, quindi soddisfa i criteri richiesti dal task."
+20260207_233319_prototype_B,task_3,,Scelgo il tiramisù come piatto finale perché è il mio dolce preferito e mi attira per la sua semplicità e gusto.
+20260207_233319_prototype_B,task_1,,"Le Foglie di Vite Ripiene sono un primo piatto (contiene riso), il tempo di preparazione è di 40 minuti, quindi inferiore ai 50 minuti richiesti."
+20260207_233319_prototype_B,task_2,,
+20260207_233319_prototype_B,task_3,,"Tempo di preparazione breve (40 minuti), ingredienti semplici (uova di quaglia, pancetta, brodo, salsa di soia), ricetta che sembra gustosa e diversa dal solito."
+20260206_095530_prototype_A,task_1,,Tempo di preparazione: 30 minuti (inferiore a 50 minuti). Tipo di piatto: primo (pasta).
+20260206_095530_prototype_A,task_2,,Scelto dopo aver confrontato diversi secondi piatti e verificato che la difficoltà fosse media.
+20260206_095530_prototype_A,task_3,,"Tempo di preparazione breve (15 minuti), ingredienti semplici e vegetariano."
+20260206_103108_prototype_B,task_1,,"Gli Spaghetti Pomodorini e Basilico hanno un tempo di preparazione di 25 minuti, che rientra nel limite di tempo richiesto. Inoltre, la ricetta sembra semplice e veloce da preparare."
+20260206_103108_prototype_B,task_2,,"Scelta perché è un secondo piatto di carne con difficoltà media, trovato alla seconda azione."
+20260206_103108_prototype_B,task_3,,"Gli spaghetti pomodorini e basilico sono un piatto vegetariano semplice e veloce da preparare, ideale per i miei gusti e la mia poca dimestichezza in cucina. Inoltre, mi piacciono molto i pomodorini e il basilico."
+20260208_114329_prototype_A,task_1,,"Gli Spaghetti ai Funghi e Speck hanno un tempo di preparazione di 20 minuti, quindi rientrano nel limite di tempo imposto dal task. Inoltre, sembra un piatto semplice e veloce da preparare."
+20260208_114329_prototype_A,task_2,,"Il piatto è un secondo a base di carne (pollo) con un contorno (riso e peperoni). La difficoltà è media, come richiesto."
+20260208_114329_prototype_A,task_3,,"Tempo di preparazione breve, ingredienti semplici e adatti alle mie preferenze (vegetariana con eccezione per il pollo, e senza lattosio). Piatto unico con verdure e riso."
+20260208_120412_prototype_B,task_1,,È un primo piatto con tempo di preparazione inferiore a 50 minuti.
+20260208_120412_prototype_B,task_2,,La difficoltà è media e rappresenta un secondo piatto non convenzionale.
+20260208_120412_prototype_B,task_3,,"Ricetta versatile, internazionale e priva di latticini."
+20260206_182011_prototype_A,task_1,,Tempo di preparazione: 20 minuti (inferiore a 50 minuti).
+20260206_182011_prototype_A,task_2,,"Sembra un piatto semplice e veloce, quindi potrebbe essere di difficoltà media."
+20260206_182011_prototype_A,task_3,,
+20260206_182040_prototype_B,task_1,,"Gli Spaghetti Pomodorini e Basilico hanno un tempo di preparazione di 15 minuti, che rientra nel limite di 50 minuti richiesto. Inoltre, sembra una ricetta semplice e veloce da preparare."
+20260206_182040_prototype_B,task_2,,"La ricetta è un secondo piatto a base di carne (pollo) e ha una difficoltà media, che soddisfa i requisiti del task. Inoltre, sembra un piatto gustoso e bilanciato."
+20260206_182040_prototype_B,task_3,,"Tempo di preparazione breve (5 minuti), difficoltà facile, ingredienti sani e in linea con le mie preferenze (yogurt, cereali, melagrana, fichi). Perfetto per uno snack veloce e salutare."
+20260206_182011_prototype_A,task_1,,Tempo di preparazione: 20 minuti (inferiore a 50 minuti).
+20260206_182011_prototype_A,task_2,,"Sembra un piatto semplice e veloce, quindi potrebbe essere di difficoltà media."
+20260206_182011_prototype_A,task_3,,"Ho confrontato diversi piatti, ma la Zuppa di Formaggio in Tazza mi attira per la velocità di preparazione e la particolarità degli ingredienti."
+20260206_233531_prototype_B,task_1,,"Gli Spaghetti Pomodorini e Basilico hanno un tempo di preparazione di 15 minuti, che rientra nel limite di 50 minuti richiesto. Inoltre, sembra una ricetta semplice e veloce da preparare."
+20260206_233531_prototype_B,task_2,,"La ricetta è un secondo piatto a base di carne (pollo) e ha una difficoltà media, che soddisfa i requisiti del task. Inoltre, sembra un piatto gustoso e bilanciato."
+20260206_233531_prototype_B,task_3,,"Scelgo i pancakes perchè mi attirano molto, sembrano un piatto dolce e confortante, perfetto per una colazione o un brunch. Inoltre, mi piace l'idea di poterli personalizzare con diversi topping."
+20260208_105358_prototype_A,task_1,,"Gli Spaghetti Pomodorini e Basilico hanno un tempo di preparazione di soli 15 minuti, che rientra nel limite di 50 minuti richiesto dal task. È il piatto più veloce tra quelli disponibili."
+20260208_105358_prototype_A,task_2,,"La Bistecca di Manzo alla Griglia è un secondo piatto di carne con difficoltà media, soddisfa i requisiti del task."
+20260208_105358_prototype_A,task_3,,Ho confrontato Pad Thai Fresco con Gamberi e Tortellini Rossi e Classici. I Tortellini mi attirano per la combinazione di sapori tradizionali e il twist fusion dato dal sugo rosso.
+20260208_105358_prototype_B,task_1,,"Il piatto ha tempo di preparazione inferiore a 50 minuti, semplice e veloce."
+20260208_105358_prototype_B,task_2,,"Secondo piatto di carne, difficoltà media come richiesto."
+20260208_105358_prototype_B,task_3,,"Ho confrontato Stufato di Uova di Quaglia e Pollo con Peperoni e Riso, scelgo quest'ultimo per preferenze gustative."
+20260208_150800_prototype_B,task_1,,"Ho scelto gli Spaghetti Pomodorini e Basilico perché sono un primo piatto veloce (15 minuti) e semplice, perfetto per il task."
+20260208_150800_prototype_B,task_2,,"Ho controllato la difficoltà della Pita ed è media, quindi adatta al task."
+20260208_150800_prototype_B,task_3,,"Ho scelto lo Stufato di Uova di Quaglia perché è un piatto originale, con ingredienti semplici e mi ispira di più rispetto agli altri piatti provati."
+20260208_143147_prototype_B,task_1,,Gli Spaghetti ai Funghi e Speck sono un primo piatto veloce (25 min) e semplice da preparare.
+20260208_143147_prototype_B,task_2,,"Ho scelto la Bistecca di Manzo perché è un secondo di carne con difficoltà media, adatto al task."
+20260208_143147_prototype_B,task_3,,"Ho scelto le Madlene al Limone perché sono dolci veloci, semplici, e mi ispirano di più tra le opzioni esplorate."
+20260207_133329_prototype_A,task_1,,"Piatto interessante e complesso, ma con tempo di preparazione inferiore ai 50 minuti."
+20260207_133329_prototype_A,task_2,,"Secondo piatto classico, tecnica chiara, difficoltà media e ingredienti essenziali."
+20260207_133329_prototype_A,task_3,,"Un classico italiano ben riconoscibile, interessante per qualità e tradizione."
+20260207_133329_prototype_B,task_1,,"Sembra un primo piatto gustoso, semplice ma elegante, con un tempo di preparazione inferiore a 50 minuti."
+20260207_133329_prototype_B,task_2,,"La Bistecca di Manzo alla Griglia è un piatto complesso ma chiaro negli ingredienti, adatto al mio interesse per ricette gourmet con difficoltà media."
+20260207_133329_prototype_B,task_3,,"Scelgo il Tom Yum di Ossa di Maiale perché è esotico e mai provato, stimolante per la mia ricerca di ricette gourmet. Ho confrontato anche la Zuppa Piccante con Pollo."
+20260207_155310_prototype_A,task_1,,"Ho scelto questo piatto perché il tempo di preparazione è di soli 15 minuti, quindi rientra ampiamente nel limite di 50 minuti richiesto dal task. Non ho bisogno di valutare altri fattori, dato che il tempo è il criterio principale."
+20260207_155310_prototype_A,task_2,,"Ho provato diversi secondi piatti, ma la Zuppa Piccante con Pollo mi ha convinto per la difficoltà media e il gusto che si adatta alle mie preferenze. Ho escluso altri piatti perché troppo semplici o non in linea con la richiesta."
+20260207_155310_prototype_A,task_3,,"Ho confrontato Pasta alla Bolognese, Pollo con Peperoni e Riso, Zuppa Piccante con Pollo e Maiale Arrosto con Pomodoro. Ho scelto quest'ultimo perché ha un tempo di preparazione di 40 minuti, è gustoso e risponde alle mie preferenze di velocità e sapore."
+20260207_155312_prototype_B,task_1,,"Ho scelto la ciabatta con prosciutto e ricotta perché il tempo di preparazione è di soli 15 minuti, quindi inferiore ai 50 minuti richiesti. Inoltre, sembra un piatto semplice e veloce da preparare."
+20260207_155312_prototype_B,task_2,,"Difficoltà media, come richiesto dal task."
+20260207_155312_prototype_B,task_3,,"Ho confrontato la Zuppa Piccante con Pollo e il Tagliere di Salumi e Formaggi. La zuppa mi attirava per il gusto piccante e la velocità, ma richiedeva troppo tempo. Il tagliere era interessante per la varietà, ma alla fine ho scelto lo Yogurt Melagrana Cereali e Fichi perché è leggero, fresco e veloce da preparare, perfetto per una cena leggera."
+20260208_143147_prototype_A,task_1,,"Gli Spaghetti Pomodorini e Basilico hanno un tempo di preparazione di soli 15 minuti, che rientra nel limite di tempo richiesto dal task."
+20260208_143147_prototype_A,task_2,,"Ho scelto 'Bistecca di Manzo alla Griglia' perché è un secondo piatto di carne con difficoltà media, adatto al task."
+20260208_143147_prototype_A,task_3,,"Ho scelto i Noodles con Maiale e Verdure perché mi sembrano un piatto interessante e relativamente veloce da preparare (25 minuti). Il Ramen mi incuriosiva di più come piatto internazionale, ma 1 ora di preparazione è troppo per ora."
+20260208_160500_prototype_A,task_1,,"Gli Spaghetti Funghi e Speck sono un primo piatto veloce da preparare (20 min), rientrano nel limite di tempo e rispondono ai criteri del task."
+20260208_160500_prototype_A,task_2,,Ho scelto il 'Pollo con Peperoni e Riso' perché è un secondo piatto di carne con difficoltà media e tempo di preparazione ragionevole.
+20260208_160500_prototype_A,task_3,,"Ho scelto il 'Tom Yum con ossa di maiale' perché mi sembrava un piatto interessante, speziato e internazionale, rispetto ad altre opzioni già esplorate."
+20260206_133908_prototype_A,task_1,,Tempo di preparazione: 20 minuti (inferiore a 50 minuti).
+20260206_133908_prototype_A,task_2,,Difficoltà media confermata dalla lettura della ricetta.
+20260206_133908_prototype_A,task_3,,Ho scelto la ciabatta perché più adatta alle mie esigenze di rapidità e gusto essenziale.
+20260206_141659_prototype_B,task_1,,La ricetta degli spaghetti pomodorini e basilico soddisfa il requisito del tempo di preparazione inferiore a 50 minuti (25 minuti).
+20260206_141659_prototype_B,task_2,,"Ho scelto la bistecca di manzo alla griglia perché è un secondo piatto di carne con difficoltà media, adatto alla richiesta del task."
+20260206_141659_prototype_B,task_3,,"Tempo di preparazione breve (10 minuti), difficoltà facile, ingredienti freschi e sapore mediterraneo che apprezzo molto. Perfetta per un pranzo veloce e gustoso, in linea con le mie preferenze per la cucina internazionale e tech-friendly."
+20260208_095504_prototype_A,task_1,,"Gli Spaghetti ai Funghi e Speck hanno un tempo di preparazione di 20 minuti, quindi inferiore a 50 minuti, e sono un primo piatto di pasta."
+20260208_095504_prototype_A,task_2,,Scelto all'ottava azione: piatto di carne con difficoltà media.
+20260208_095504_prototype_A,task_3,,Ho scelto la Torta di Carote come piatto finale dopo aver confrontato Yogurt Melagrana Cereali Fichi e Waffle con Fragole e Mirtilli.
+20260208_095504_prototype_B,task_1,,"Ho scelto gli Spaghetti Pomodorini e Basilico perché sono un primo piatto veloce, semplice da capire nella lista e adatto ai miei gusti."
+20260208_095504_prototype_B,task_2,,Ho esplorato diverse opzioni e ho scelto la Bistecca di Manzo alla Griglia perché ha difficoltà media e si presenta chiara nella lista.
+20260208_095504_prototype_B,task_3,,"Dopo aver confrontato lo Stufato di Uova di Quaglia e il Pollo con Peperoni e Riso, ho scelto quest'ultimo perché mi sembra più familiare e appetitoso nella lista."
+20260209_101500_prototype_A,task_1,,"Ricetta veloce, primo piatto adatto al tempo richiesto."
+20260209_101500_prototype_A,task_2,,"Secondo piatto di carne con difficoltà media, soddisfa i requisiti del task."
+20260209_101500_prototype_A,task_3,,"Preferenza personale per dolce semplice e senza glutine, ingredienti adatti."
+20260208_225246_prototype_A,task_1,,Tempo di preparazione inferiore a 50 minuti e tipologia di piatto (zuppa) adatta al task.
+20260208_225246_prototype_A,task_2,,Il piatto 'Pollo con Peperoni e Riso' soddisfa i requisiti di difficoltà media. Il tempo di preparazione di 35 minuti è accettabile. Gli ingredienti sono semplici e comuni.
+20260208_225246_prototype_A,task_3,,
+20260204_172731_prototype_B,task_3,,"La zuppa piccante con pollo sembra interessante e adatta ai miei gusti per il piccante e le ricette internazionali. Il maiale arrosto con pomodoro è un'alternativa, ma preferisco la zuppa per variare un po'."
+20260209_093109_prototype_A,task_1,,"Gli Spaghetti ai Funghi e Speck sono un primo piatto (pasta) con un tempo di preparazione di 20 minuti, quindi inferiore ai 50 minuti richiesti."
+20260209_093109_prototype_A,task_2,,Il piatto 'Pollo con Peperoni e Riso' soddisfa i requisiti di difficoltà media. Il tempo di preparazione di 35 minuti è accettabile. Gli ingredienti sono semplici e comuni.
+20260209_093109_prototype_A,task_3,,"Preferisco un dolce semplice e veloce da preparare, e i pancake con miele e frutti di bosco sembrano soddisfare queste preferenze."
+20260209_095358_prototype_B,task_1,,"Sono un primo piatto, con tempo di preparazione inferiore a 50 minuti, e sembra gustoso."
+20260209_095358_prototype_B,task_2,,"Ho scelto questo piatto perché è un secondo piatto di carne con difficoltà media, come richiesto dal task."
+20260209_095358_prototype_B,task_3,,"Scelto per la rapidità, ingredienti adatti e preferenza personale."
+20260206_160000_prototype_A,task_1,,"Tempo di preparazione inferiore a 50 minuti e piatto semplice, coerente con le preferenze veloci."
+20260206_160000_prototype_A,task_2,,"Secondo piatto proteico, con tempi di preparazione sotto i 50 minuti."
+20260206_160000_prototype_A,task_3,,"Dopo aver confrontato più opzioni, questo snack leggero e veloce era il più coerente."
+20260206_161800_prototype_B,task_1,,"Ricetta veloce sotto i 50 minuti, coerente con le preferenze."
+20260206_161800_prototype_B,task_2,,"Piatto proteico con difficoltà media, coerente con i criteri."
+20260206_161800_prototype_B,task_3,,"Dopo aver confrontato più piatti, la zuppa piccante con pollo era la più coerente con preferenze veloci e proteiche."
+20260208_194622_prototype_A,task_1,,"Gli spaghetti ai funghi e speck hanno un tempo di preparazione di 20 minuti, quindi inferiore ai 50 minuti richiesti. Inoltre, la difficoltà è facile."
+20260208_194622_prototype_A,task_2,,"Bistecca di Manzo alla Griglia sembra un secondo piatto di carne, e ha difficoltà media."
+20260208_194622_prototype_A,task_3,,"La zuppa piccante con pollo mi attira per il gusto deciso e la rapidità di preparazione. Ho confrontato anche lo stufato di uova di quaglia, ma ho preferito la zuppa per la sua intensità di sapore."
+20260208_194622_prototype_B,task_1,,"Gli spaghetti ai funghi e speck hanno un tempo di preparazione di 20 minuti, quindi inferiore ai 50 minuti richiesti. Inoltre, la difficoltà è facile."
+20260208_194622_prototype_B,task_2,,"Bistecca di Manzo alla Griglia sembra un secondo piatto di carne, e ha difficoltà media."
+20260208_194622_prototype_B,task_3,,"La zuppa piccante con pollo mi attira per il gusto deciso e la rapidità di preparazione. Ho confrontato anche lo stufato di uova di quaglia, ma ho preferito la zuppa per la sua intensità di sapore."
+20260209_160419_prototype_A,task_1,,"La ricetta dei Bocconcini di Mozzarella Marinati mi attrae per la sua semplicità e rapidità (solo 10 minuti). Essendo un assistente marketing con poco tempo a disposizione, un piatto veloce è ideale. Inoltre, mi piace l'idea di un piatto fresco e leggero, perfetto per un pranzo veloce o un aperitivo. Gli ingredienti sono semplici e facilmente reperibili."
+20260209_115123_prototype_B,task_1,,"Il piatto 'Spaghetti ai Funghi e Speck' ha un tempo di preparazione di 25 minuti, che rientra nel limite di 50 minuti richiesto. Sembra anche un piatto gustoso e facile da preparare."
+20260209_115123_prototype_B,task_2,,"Il piatto 'Foglie di vite ripiene' ha una difficoltà media, come richiesto dal task. Non ho bisogno di cercare oltre."
+20260209_115123_prototype_B,task_3,,Ho confrontato diversi piatti e scelto i tortellini rossi e classici come preferiti.
+20260207_193846_prototype_A,task_1,,"Gli Spaghetti ai Funghi e Speck hanno un tempo di preparazione di soli 20 minuti, che rientra nel limite richiesto. Inoltre, sembra un piatto gustoso."
+20260207_193846_prototype_A,task_2,,"Ho scelto Pollo con Peperoni e Riso perché è un secondo piatto di carne con contorno, il tempo di preparazione è ragionevole e la difficoltà sembra media."
+20260207_193846_prototype_A,task_3,,Ho scelto le foglie di vite ripiene perché mi incuriosiscono e sembrano un piatto tradizionale interessante. Il tempo di preparazione di 40 minuti è accettabile e non ho visto altri piatti che mi attirassero di più.
+20260207_193846_prototype_B,task_1,,"Gli Spaghetti ai Funghi e Speck hanno un tempo di preparazione di soli 20 minuti, che rientra nel limite richiesto. Inoltre, sembra un piatto gustoso."
+20260207_193846_prototype_B,task_2,,"Ho scelto Pollo con Peperoni e Riso perché è un secondo piatto di carne con contorno, il tempo di preparazione è ragionevole e la difficoltà sembra media."
+20260207_193846_prototype_B,task_3,,"È un piatto che conosco, so che mi piacerà e non richiede troppo impegno. Perfetto per la mia preferenza per piatti veloci e tradizionali e la mia bassa pazienza."
+20260207_155310_prototype_A,task_1,,"Ho scelto questo piatto perché il tempo di preparazione è di soli 15 minuti, quindi rientra ampiamente nel limite di 50 minuti richiesto dal task. Non ho bisogno di valutare altri fattori, dato che il tempo è il criterio principale."
+20260207_155310_prototype_A,task_2,,"Ho provato diversi secondi piatti, ma la Zuppa Piccante con Pollo mi ha convinto per la difficoltà media e il gusto che si adatta alle mie preferenze. Ho escluso altri piatti perché troppo semplici o non in linea con la richiesta."
+20260207_155310_prototype_A,task_3,,"Ho confrontato la Zuppa Piccante con Pollo e il Maiale Arrosto con Pomodoro. La Zuppa mi attirava per il gusto piccante, ma alla fine ho scelto il Maiale Arrosto perché offre un equilibrio di sapori più complesso e una presentazione più sofisticata, che preferisco."
+20260207_156110_prototype_B,task_1,,"Ho scelto la ciabatta con prosciutto e ricotta perché il tempo di preparazione è di soli 15 minuti, quindi inferiore ai 50 minuti richiesti. Inoltre, sembra un piatto semplice e veloce da preparare."
+20260207_156110_prototype_B,task_2,,"Difficoltà media, come richiesto dal task."
+20260207_156110_prototype_B,task_3,,"La ciabatta con prosciutto e ricotta sembra un'ottima opzione per un pranzo veloce e gustoso. La preparazione è facile e richiede poco tempo, il che è perfetto per i miei ritmi. Inoltre, gli ingredienti sono semplici e facilmente reperibili. Le foglie di vite ripiene sembrano più complesse e richiedono più tempo, quindi le escludo."
+20260205_130223_prototype_A,task_1,,"La ricetta 'Noodles con Maiale e Verdure' ha un tempo di preparazione di 25 minuti, quindi rispetta il requisito del task. Inoltre, sembra un piatto diverso da quelli che ho visto finora."
+20260205_130223_prototype_A,task_2,,"Secondo piatto di carne con difficoltà media, come richiesto dal task"
+20260205_130223_prototype_A,task_3,,Scelta interessante per i suoi ingredienti e la preparazione distintiva
+20260205_143551_prototype_B,task_1,,"Piatto con tempo di preparazione di 25 minuti, soddisfa il requisito <50min"
+20260205_143551_prototype_B,task_2,,"La ricetta 'Bistecca di Manzo alla Griglia' ha una difficoltà media, come richiesto dal task. Inoltre, è un secondo piatto a base di carne, che soddisfa i requisiti del task."
+20260205_143551_prototype_B,task_3,,"Dopo aver esplorato diverse opzioni tra piatti salati e dolci, ho scelto Pancake perché è un piatto interessante e diverso dalle scelte precedenti (primo e secondo)."
+20260207_132756_prototype_A,task_1,,"Piatto semplice, mediterraneo e immediatamente riconoscibile nella lista."
+20260207_132756_prototype_A,task_2,,"Secondo classico, difficoltà media, trovato dopo breve scroll."
+20260207_132756_prototype_A,task_3,,"Confrontato con 'Pollo con Peperoni e Riso', scelto per maggiore carattere e completezza del piatto."
+20260207_215245_prototype_B,task_1,,"Il piatto 'Foglie di Vite Ripiene' ha un tempo di preparazione di 40 minuti, che rientra nel limite massimo di 50 minuti richiesto dal task. Non ho preferenze personali da considerare, quindi questo piatto soddisfa i requisiti."
+20260207_215245_prototype_B,task_2,,"La ricetta 'Foglie di Vite Ripiene' ha una difficoltà media, che soddisfa il requisito principale del task. Inoltre, sembra un piatto interessante e diverso dal solito."
+20260207_215245_prototype_B,task_3,,"Sembra un piatto veloce e fresco, ideale per un pranzo leggero."
+20260208_211407_prototype_A,task_1,,"La zuppa di formaggio in tazza ha un tempo di preparazione di 25 minuti, inferiore ai 50 minuti richiesti. È un primo piatto e sembra facile da preparare."
+20260208_211407_prototype_A,task_2,,"Pollo con Peperoni e Riso ha difficoltà media, adatto al task."
+20260208_211407_prototype_A,task_3,,Scelto per la freschezza e la combinazione di sapori.
+20260208_194622_prototype_B,task_1,,"Tempo di preparazione 40 minuti, adatto al task, ricetta semplice."
+20260208_194622_prototype_B,task_2,,"Rad Na ha difficoltà media, soddisfa i requisiti del task."
+20260208_194622_prototype_B,task_3,,"Scelto per la dolcezza, la presentazione e la rapidità di preparazione."
+20260206_162948_prototype_A,task_1,,"Sembra una ricetta veloce e semplice, sotto i 50 minuti."
+20260206_162948_prototype_A,task_2,,"Il piatto visualizzato è un primo, non un secondo. Torno indietro per cercare un secondo piatto."
+20260206_162948_prototype_A,task_3,,"Il tagliere salumi e formaggi risulta più invitante per varietà, ideale per condivisione e consumo informale."
+20260206_162948_prototype_B,task_1,,"La ricetta 'Spaghetti ai Funghi e Speck' ha un tempo di preparazione di 20 minuti, che rientra nel limite di tempo richiesto (meno di 50 minuti)."
+20260206_162948_prototype_B,task_2,,"Ho scelto 'Pollo con Peperoni e Riso' perché è un secondo piatto con contorno, difficoltà media e preparazione ragionevole."
+20260206_162948_prototype_B,task_3,,I waffle risultano più invitanti per consistenza e percezione di maggiore golosità rispetto ai pancake.
+20260208_190551_prototype_A,task_1,,"Gli 'Spaghetti ai Funghi e Speck' hanno un tempo di preparazione di 30 minuti, quindi inferiore ai 50 minuti richiesti. Inoltre, si tratta di un primo piatto (pasta)."
+20260208_190551_prototype_A,task_2,,Ho scelto la Bistecca di Manzo alla Griglia perché è un secondo piatto classico con difficoltà media.
+20260208_150100_prototype_B,task_1,,
+20260208_150100_prototype_B,task_2,,"Sembra un piatto di media difficoltà, come richiesto."
+20260208_150100_prototype_B,task_3,,"Tra i piatti confrontati, è quello che mi attira di più per gusto e presentazione."
+20260207_002607_prototype_A,task_1,,"Scelgo gli Spaghetti Pomodorini e Basilico perché sono un primo veloce, semplice e mediterraneo, che rientra nel limite di tempo richiesto."
+20260207_002607_prototype_A,task_2,,Il Tacchino Natalizio non rientrava nei requisiti di difficoltà media. Ho scelto la Pita Ripiena perché soddisfa il criterio di difficoltà e sembra un piatto equilibrato e gustoso.
+20260207_002607_prototype_A,task_3,,"Ho confrontato la Ciabatta con Prosciutto e Ricotta e le Foglie di Vita Ripiene. Ho scelto le Foglie di Vita Ripiene perché sembrano più gourmet e intriganti, in linea con le mie preferenze mediterranee."
+20260207_002607_prototype_B,task_1,,"È un primo piatto veloce, semplice e rientra nei criteri di tempo (<50 min)."
+20260207_002607_prototype_B,task_2,,Piace a Sofia per il taglio e la preparazione gourmet; rientra nei criteri anche se leggermente complesso.
+20260207_002607_prototype_B,task_3,,"Tra i due piatti confrontati, Sofia sceglie Pollo Peperoni e Riso per gusto equilibrato e preparazione chiara."
+20260206_150052_prototype_A,task_1,,"È un primo piatto semplice con tempo di preparazione inferiore a 50 minuti, coerente con la ricerca di una soluzione rapida."
+20260206_150052_prototype_A,task_2,,Un secondo piatto di carne con difficoltà media.
+20260206_150052_prototype_A,task_3,,"Dopo aver confrontato più piatti, viene scelto perché percepito come proteico, senza glutine e più in linea con le esigenze personali."
+20260206_150618_prototype_B,task_1,,"È un primo piatto semplice con tempo di preparazione inferiore a 50 minuti, coerente con la ricerca di una soluzione rapida."
+20260206_150618_prototype_B,task_2,,"Secondo proteico, veloce da preparare, coerente con le preferenze."
+20260206_150618_prototype_B,task_3,,"Dopo aver esplorato diverse opzioni, viene scelto perché proteico, senza glutine e veloce."
+20260205_182624_prototype_A,task_1,,"Gli Spaghetti ai Funghi e Speck hanno un tempo di preparazione di 20 minuti, che rientra nel limite di 50 minuti richiesto. Inoltre, sembra una ricetta facile e veloce da preparare."
+20260205_182624_prototype_A,task_2,,"La ricetta 'Stufato di Uova di Quaglia' è un secondo piatto con difficoltà media, adatto al task."
+20260205_182624_prototype_A,task_3,,Ho confrontato la zuppa piccante con pollo e il pollo con peperoni e riso. Ho scelto quest'ultimo perché sembra mediterraneo e senza glutine.
+20260205_193529_prototype_B,task_1,,"Gli Spaghetti Pomodorini e Basilico richiedono solo 25 minuti di preparazione, il che rientra nel limite di tempo stabilito dal task."
+20260205_193529_prototype_B,task_2,,"La ricetta 'Bistecca di Manzo alla Griglia' ha una difficoltà media, come specificato nel task. Il tempo di preparazione è di 25 minuti, il che la rende una scelta ragionevole. Inoltre, è un secondo piatto a base di carne, che soddisfa i requisiti del task."
+20260205_193529_prototype_B,task_3,,"Ho scelto lo stufato perché sembra interessante, adatto alle mie esigenze senza glutine e con ingredienti semplici."

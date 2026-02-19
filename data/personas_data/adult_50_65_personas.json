@@ -1,104 +1,390 @@
 [
   {
-    "behavior": {
-      "pageviews": 1.0,
-      "session_duration_sec": 0.6423816696,
-      "bounce_rate": 0.4465343516,
-      "Traffic Source": "Organic",
-      "Time on Page": 3.4027446243,
-      "Previous Visits": 1.0,
-      "Conversion Rate": 1.0
-    },
-    "demographics": {
-      "eta": 55,
-      "genere": "F",
-      "paese": "Italia"
-    },
+    "persona_id": "PS_adult_50_65_bc6c3acf",
     "bio": {
-      "occupation": "Insegnante in pensione",
-      "family_status": "Sposata con figli adulti",
-      "allergies": [
-        "glutine"
+      "nome": "Anna Verdi",
+      "eta": 63,
+      "lavoro": "Insegnante in pensione",
+      "stato_familiare": "Divorced"
+    },
+    "navigation": {
+      "decision_style": "balanced",
+      "patience_level": 0.8,
+      "tech_comfort": "high",
+      "task_oriented": false,
+      "attention_to_detail": "high"
+    },
+    "gusti_culinari": {
+      "gusti": [
+        "vegetariano",
+        "leggero"
       ],
-      "tech_comfort": "medium"
+      "piatti_preferiti": [
+        "parmigiana di melanzane",
+        "minestrone"
+      ],
+      "allergie": []
     },
-    "goal": "Trovare ricette sane e facili da preparare per le cene in famiglia",
-    "literacy": "medium",
-    "target_group": "adult_50_65"
+    "brief": "Anna, 63 anni, insegnante pensionata divorziata. Naviga con pazienza ed esplora con grande attenzione. Ama cucina vegetariana e piatti leggeri come minestrone. UI naturale rassicurante equilibrato, evita colori scuri.",
+    "target_group": "adult_50_65",
+    "preferenze_visive": {
+      "colori_preferiti": [
+        "verde tenue",
+        "beige",
+        "bianco"
+      ],
+      "stile_ui": "naturale rassicurante equilibrato",
+      "evita": [
+        "colori scuri",
+        "layout affollati"
+      ],
+      "attention_visual": "alta (legge bene testi, nota dettagli ricette)"
+    }
   },
   {
-    "behavior": {
-      "pageviews": 4.0,
-      "session_duration_sec": 0.1695632926,
-      "bounce_rate": 0.5106042177,
-      "Traffic Source": "Direct",
-      "Time on Page": 3.0411265649,
-      "Previous Visits": 2.0,
-      "Conversion Rate": 0.9977933453000001
-    },
-    "demographics": {
-      "eta": 58,
-      "genere": "F",
-      "paese": "Italia"
-    },
+    "persona_id": "PS_adult_50_65_51ba28f9",
     "bio": {
-      "occupation": "Casalinga",
-      "family_status": "Sposata con figli adulti",
-      "allergies": [],
-      "tech_comfort": "low"
+      "nome": "Sara Romano",
+      "eta": 50,
+      "lavoro": "Toilettatrice",
+      "stato_familiare": "Single"
     },
-    "goal": "Cercare ricette tradizionali italiane semplici da seguire per pasti quotidiani.",
-    "literacy": "low",
-    "target_group": "adult_50_65"
+    "navigation": {
+      "decision_style": "balanced",
+      "patience_level": 0.5,
+      "tech_comfort": "low",
+      "task_oriented": false,
+      "attention_to_detail": "medium"
+    },
+    "gusti_culinari": {
+      "gusti": [
+        "sano",
+        "veloce"
+      ],
+      "piatti_preferiti": [
+        "insalate proteiche",
+        "zuppe"
+      ],
+      "allergie": [
+        "frutta secca"
+      ]
+    },
+    "brief": "Sara, 50 anni, toilettatrice single. Navigazione bilanciata tra esplorazione e obiettivi. Preferisce piatti sani e veloci. Allergica frutta secca. UI naturale rassicurante equilibrato, evita colori scuri.",
+    "target_group": "adult_50_65",
+    "preferenze_visive": {
+      "colori_preferiti": [
+        "verde tenue",
+        "beige",
+        "bianco"
+      ],
+      "stile_ui": "naturale rassicurante equilibrato",
+      "evita": [
+        "colori scuri",
+        "layout affollati"
+      ],
+      "attention_visual": "media (preferisce foto grandi, testi chiari)"
+    }
   },
   {
-    "behavior": {
-      "pageviews": 3.0,
-      "session_duration_sec": 0.5749729641,
-      "bounce_rate": 0.4553008757,
-      "Traffic Source": "Paid",
-      "Time on Page": 6.2294350491,
-      "Previous Visits": 0.0,
-      "Conversion Rate": 1.0
-    },
-    "demographics": {
-      "eta": 58,
-      "genere": "M",
-      "paese": "Italia"
-    },
+    "persona_id": "PS_adult_50_65_bac85e51",
     "bio": {
-      "occupation": "Pensionato (ex operaio edile)",
-      "family_status": "Sposato con due figli adulti",
-      "allergies": [],
-      "tech_comfort": "low"
+      "nome": "Luca Conti",
+      "eta": 52,
+      "lavoro": "Ristoratore",
+      "stato_familiare": "Married"
     },
-    "goal": "Trovare ricette semplici e veloci da preparare senza troppi passaggi complicati.",
-    "literacy": "low",
-    "target_group": "adult_50_65"
+    "navigation": {
+      "decision_style": "speedrunner",
+      "patience_level": 0.2,
+      "tech_comfort": "high",
+      "task_oriented": true,
+      "attention_to_detail": "low"
+    },
+    "gusti_culinari": {
+      "gusti": [
+        "gourmet",
+        "sperimentale"
+      ],
+      "piatti_preferiti": [
+        "ravioli innovativi",
+        "cruditè di mare"
+      ],
+      "allergie": []
+    },
+    "brief": "Luca, 52 anni, ristoratore sposato. Navigazione veloce e diretta. Cerca ricette gourmet sperimentali come cruditè di mare. UI sofisticato moderno essenziale, evita colori neon.",
+    "target_group": "adult_50_65",
+    "preferenze_visive": {
+      "colori_preferiti": [
+        "elegante",
+        "oro",
+        "blu scuro"
+      ],
+      "stile_ui": "sofisticato moderno essenziale",
+      "evita": [
+        "colori neon",
+        "layout troppo moderni"
+      ],
+      "attention_visual": "media (preferisce foto grandi, testi chiari)"
+    }
   },
   {
-    "behavior": {
-      "pageviews": 3.0,
-      "session_duration_sec": 0.6920812132,
-      "bounce_rate": 0.5602716235,
-      "Traffic Source": "Referral",
-      "Time on Page": 1.4814091477,
-      "Previous Visits": 1.0,
-      "Conversion Rate": 0.9499333901
+    "persona_id": "PS_adult_50_65_fb4e6ece",
+    "bio": {
+      "nome": "Anna Conti",
+      "eta": 62,
+      "lavoro": "Insegnante in pensione",
+      "stato_familiare": "Parent"
     },
-    "demographics": {
+    "navigation": {
+      "decision_style": "balanced",
+      "patience_level": 0.6,
+      "tech_comfort": "medium",
+      "task_oriented": false,
+      "attention_to_detail": "high"
+    },
+    "gusti_culinari": {
+      "gusti": [
+        "regionale",
+        "salutare"
+      ],
+      "piatti_preferiti": [
+        "minestrone",
+        "branzino al forno"
+      ],
+      "allergie": [
+        "lattosio"
+      ]
+    },
+    "brief": "Anna, 62 anni, ex insegnante con figli. Esplora ricette regionali salutari come minestrone e branzino. Attenzione alta ai dettagli. UI naturale rassicurante equilibrato, evita colori scuri.",
+    "target_group": "adult_50_65",
+    "preferenze_visive": {
+      "colori_preferiti": [
+        "verde tenue",
+        "beige",
+        "bianco"
+      ],
+      "stile_ui": "naturale rassicurante equilibrato",
+      "evita": [
+        "colori scuri",
+        "layout affollati"
+      ],
+      "attention_visual": "media-alta (focus su immagini, ingredienti)"
+    }
+  },
+  {
+    "persona_id": "PS_adult_50_65_8e9357c4",
+    "bio": {
+      "nome": "Mattia Ferrari",
       "eta": 55,
-      "genere": "F",
-      "paese": "Italia"
+      "lavoro": "Commercialista",
+      "stato_familiare": "Divorced"
     },
+    "navigation": {
+      "decision_style": "speedrunner",
+      "patience_level": 0.3,
+      "tech_comfort": "high",
+      "task_oriented": true,
+      "attention_to_detail": "low"
+    },
+    "gusti_culinari": {
+      "gusti": [
+        "veloce",
+        "piccante"
+      ],
+      "piatti_preferiti": [
+        "pasta arrabbiata",
+        "saltimbocca"
+      ],
+      "allergie": []
+    },
+    "brief": "Mattia, 55 anni, commercialista divorziato. Veloce nella navigazione, cerca ricette rapide e piccanti come pasta arrabbiata. UI dinamico pratico essenziale, evita layout lenti.",
+    "target_group": "adult_50_65",
+    "preferenze_visive": {
+      "colori_preferiti": [
+        "rosso",
+        "arancione",
+        "giallo"
+      ],
+      "stile_ui": "dinamico pratico essenziale",
+      "evita": [
+        "layout lenti",
+        "animazioni"
+      ],
+      "attention_visual": "media (preferisce foto grandi, testi chiari)"
+    }
+  },
+  {
+    "persona_id": "PS_adult_50_65_4d7a2259",
     "bio": {
-      "occupation": "Insegnante di scuola superiore",
-      "family_status": "Sposata con due figli adulti",
-      "allergies": [],
-      "tech_comfort": "high"
+      "nome": "Marco Ferrari",
+      "eta": 55,
+      "lavoro": "Impiegato bancario",
+      "stato_familiare": "Divorced"
     },
-    "goal": "Cercare ricette veloci e salutari per gestire i pasti settimanali in modo efficiente, bilanciando lavoro e vita familiare.",
-    "literacy": "high",
-    "target_group": "adult_50_65"
+    "navigation": {
+      "decision_style": "balanced",
+      "patience_level": 0.8,
+      "tech_comfort": "high",
+      "task_oriented": false,
+      "attention_to_detail": "medium"
+    },
+    "gusti_culinari": {
+      "gusti": [
+        "internazionale",
+        "piccante"
+      ],
+      "piatti_preferiti": [
+        "pasta all'arrabbiata",
+        "couscous"
+      ],
+      "allergie": []
+    },
+    "brief": "Marco, 55 anni, bancario divorziato. Esplora con calma ricette internazionali e piccanti come pasta all'arrabbiata. Nessuna allergia. UI sofisticato moderno equilibrato, evita colori neon.",
+    "target_group": "adult_50_65",
+    "preferenze_visive": {
+      "colori_preferiti": [
+        "elegante",
+        "oro",
+        "blu scuro"
+      ],
+      "stile_ui": "sofisticato moderno equilibrato",
+      "evita": [
+        "colori neon",
+        "layout troppo moderni"
+      ],
+      "attention_visual": "media (preferisce foto grandi, testi chiari)"
+    }
+  },
+  {
+    "persona_id": "PS_adult_50_65_1d1c0673",
+    "bio": {
+      "nome": "Anna Bianchi",
+      "eta": 65,
+      "lavoro": "Infermiera in pensione",
+      "stato_familiare": "Parent"
+    },
+    "navigation": {
+      "decision_style": "balanced",
+      "patience_level": 0.5,
+      "tech_comfort": "medium",
+      "task_oriented": true,
+      "attention_to_detail": "medium"
+    },
+    "gusti_culinari": {
+      "gusti": [
+        "salutare",
+        "vegetariano"
+      ],
+      "piatti_preferiti": [
+        "minestrone",
+        "parmigiana di melanzane"
+      ],
+      "allergie": [
+        "lattosio"
+      ]
+    },
+    "brief": "Anna, 65 anni, ex infermiera con figli. Navigazione bilanciata e pratica. Cucina salutare e vegetariana. Preferisce minestrone e parmigiana. Intollerante al lattosio. UI naturale rassicurante equilibrato, evita colori scuri.",
+    "target_group": "adult_50_65",
+    "preferenze_visive": {
+      "colori_preferiti": [
+        "verde tenue",
+        "beige",
+        "bianco"
+      ],
+      "stile_ui": "naturale rassicurante equilibrato",
+      "evita": [
+        "colori scuri",
+        "layout affollati"
+      ],
+      "attention_visual": "media (preferisce foto grandi, testi chiari)"
+    }
+  },
+  {
+    "persona_id": "PS_adult_50_65_1bc3e4bc",
+    "bio": {
+      "nome": "Lucia Conti",
+      "eta": 60,
+      "lavoro": "Fioraia",
+      "stato_familiare": "Single"
+    },
+    "navigation": {
+      "decision_style": "balanced",
+      "patience_level": 0.6,
+      "tech_comfort": "low",
+      "task_oriented": true,
+      "attention_to_detail": "medium"
+    },
+    "gusti_culinari": {
+      "gusti": [
+        "regionale",
+        "casalingo"
+      ],
+      "piatti_preferiti": [
+        "lasagne",
+        "polenta"
+      ],
+      "allergie": [
+        "glutine"
+      ]
+    },
+    "brief": "Lucia, 60 anni, fioraia single. Navigazione bilanciata e pratica. Ama cucina regionale e casalinga. Intollerante al glutine. UI tradizionale familiare equilibrato, evita minimalista estremo. Attenzione media ai dettagli, preferisce foto grandi e testi chiari.",
+    "target_group": "adult_50_65",
+    "preferenze_visive": {
+      "colori_preferiti": [
+        "caldo",
+        "terra",
+        "rosso pomodoro"
+      ],
+      "stile_ui": "tradizionale familiare equilibrato",
+      "evita": [
+        "minimalista estremo",
+        "font moderni"
+      ],
+      "attention_visual": "media (preferisce foto grandi, testi chiari)"
+    }
+  },
+  {
+    "persona_id": "PS_adult_50_65_def20eef",
+    "bio": {
+      "nome": "Paolo Romano",
+      "eta": 53,
+      "lavoro": "Architetto",
+      "stato_familiare": "Married"
+    },
+    "navigation": {
+      "decision_style": "speedrunner",
+      "patience_level": 0.2,
+      "tech_comfort": "high",
+      "task_oriented": false,
+      "attention_to_detail": "low"
+    },
+    "gusti_culinari": {
+      "gusti": [
+        "internazionale",
+        "fusion"
+      ],
+      "piatti_preferiti": [
+        "sushi fatto in casa",
+        "poke bowl"
+      ],
+      "allergie": [
+        "frutta secca"
+      ]
+    },
+    "brief": "Paolo, 53 anni, architetto sposato. Navigazione veloce e curiosa. Preferisce cucina internazionale fusion. Allergico alla frutta secca. UI sofisticato moderno essenziale, evita colori neon.",
+    "target_group": "adult_50_65",
+    "preferenze_visive": {
+      "colori_preferiti": [
+        "elegante",
+        "oro",
+        "blu scuro"
+      ],
+      "stile_ui": "sofisticato moderno essenziale",
+      "evita": [
+        "colori neon",
+        "layout troppo moderni"
+      ],
+      "attention_visual": "media (preferisce foto grandi, testi chiari)"
+    }
   }
 ]

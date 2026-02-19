@@ -1,0 +1,241 @@
+partecipante,prototipo,task,tempo,successo,errori,azioni,tipologia azioni,outcome
+partecipante_1,B,task_1,1,SI,0,5,"click, scroll down, scroll down, scroll down, click",Spaghetti Pomodorini e Basilico
+partecipante_1,B,task_2,1,SI,0,5,"click, click, scroll down, scroll down, scroll down",Bistecca di Manzo
+partecipante_1,B,task_3,2,SI,0,9,"click, click, scroll up, scroll up, scroll up, scroll up, click filtro, click, click",Zuppa di Formaggio in tazza
+partecipante_1,A,task_1,1,SI,0,4,"click, scroll down, scroll down, click",Spaghetti Pomodorini e Basilico
+partecipante_1,A,task_2,1,SI,0,6,"back, scroll up,  scroll up, click filtro, click, click",Pita
+partecipante_1,A,task_3,2,SI,0,9,"back, click filtro, click, scroll down, scroll up, click filtro, click, scroll down, click",Madeline
+partecipante_10,B,task_1,1,SI,0,3,"click, scroll down, click",Mozzarella e pomodori
+partecipante_10,B,task_2,1,SI,0,3,"back, scroll down, scroll down, scroll down, scroll down, click", Bistecca di Manzo
+partecipante_10,B,task_3,2,SI,0,3,"back, scroll down, scroll down, click",Stufato di Uova di Quaglia
+partecipante_10,A,task_1,1,SI,0,3,"click, scroll down, scroll down,  scroll down, scroll downm click",Ramen
+partecipante_10,A,task_2,1,SI,1,3,"back, scroll up, scroll up, click",Foglia di vite
+partecipante_10,A,task_3,1,SI,0,3,"back, scroll down, scroll down, scroll down, click",Crepes
+partecipante_11,B,task_1,1,SI,0,4,"click, scroll down, scroll up, click filtro, click, click",Spaghetti Pomodorini e Basilico
+partecipante_11,B,task_2,1,SI,0,3,"back, click filtro, click, scroll down, scroll down, scroll down, click",Bistecca di Manzo
+partecipante_11,B,task_3,1,SI,0,5,"back, scroll up, scroll up, click filtro, click, scroll down, click, back",Foglie di Vite
+partecipante_11,A,task_1,1,SI,0,3,"click, click filtro, click, click",Spaghetti Funghi e Speck
+partecipante_11,A,task_2,1,SI,0,4,"back, click filtro, click, scroll down, scroll down, click",Zuppa Piccante con Pollo
+partecipante_11,A,task_3,1,SI,0,3,"back, click filtro, click, scroll down, scroll down, click",Madelene
+partecipante_12,B,task_1,1,SI,0,3,"click, click filtro, click, click",Spaghetti Funghi e Speck
+partecipante_12,B,task_2,1,SI,0,4,"back, click filtro, click, scroll down, scroll down, scroll down, click, back, click",Stufato di Uova di Quaglia
+partecipante_12,B,task_3,1,SI,0,4,"back, click filtro, scroll down, scroll down, click, back, click",Purè
+partecipante_12,A,task_1,1,SI,0,4,"click, click filtro, click, scroll down, click",Rad Na
+partecipante_12,A,task_2,1,SI,0,3,"back, click filtro, click, click",Bistecca di Manzo
+partecipante_12,A,task_3,1,SI,0,4,"back, click filtro, click, back, click",Ramen
+partecipante_13,B,task_1,1,SI,0,3,"click, scroll down, scroll down, scroll down, click",Spaghetti Funghi e Speck
+partecipante_13,B,task_2,1,NO,0,2,"back, scroll down, scroll down, click",Tom Yum
+partecipante_13,B,task_3,1,SI,0,4,"back, scroll up, scroll up, click",Tortellini classici e rossi
+partecipante_13,A,task_1,1,SI,0,3,"click, scroll down, click",Spaghetti Pomodorini e Basilico
+partecipante_13,A,task_2,1,SI,0,3,"back, scroll down, click",Ramen
+partecipante_13,A,task_3,1,SI,0,6,"back, scroll down, click, back, scroll down, click, back",Pollo peperoni e riso
+partecipante_14,B,task_1,1,SI,0,3,"click, click filtro, click,click",Spaghetti Pomodorini e Basilico
+partecipante_14,B,task_2,1,SI,0,4,"back, click filtro,click,  scroll down, click",Bistecca di Manzo
+partecipante_14,B,task_3,1,SI,0,6,"back, scroll down, click filtro, click, scroll down, click, back, click",Tiramisù
+partecipante_14,A,task_1,1,SI,0,3,"click, click filtro, click, click",Spaghetti Funghi e Speck
+partecipante_14,A,task_2,1,SI,0,3,"back, click filtro, click, click",Pita
+partecipante_14,A,task_3,1,SI,0,4,"back, click filtro, click, scroll down, click, back, click",Spaghetti Pomodorini e Basilico
+partecipante_15,B,task_1,1,SI,0,3,"click, scroll down",Spaghetti Funghi e Speck
+partecipante_15,B,task_2,1,SI,0,3,"click, scroll down",Stufato di Uova di Quaglia
+partecipante_15,B,task_3,4,SI,1,7,"scroll down, click",Tortellini classici e rossi
+partecipante_15,A,task_1,1,SI,0,3,"click, scroll down, click",Noodles con Maiale e Verdure con Mailale e verdure
+partecipante_15,A,task_2,1,SI,0,2,"back, click filtro, click, click",Bistecca di Manzo
+partecipante_15,A,task_3,1,SI,0,5,"click, click filtro, click, scroll down, click",Tiramisù
+partecipante_16,B,task_1,1,SI,0,4,"click, click filtro, click, scroll down, click",Spaghetti Funghi e Speck
+partecipante_16,B,task_2,1,SI,0,5,"back, scroll down, click, back, click",Bistecca di Manzo
+partecipante_16,B,task_3,1,SI,1,7,"back, scroll down, click",Tortellini classici e rossi
+partecipante_16,A,task_1,1,SI,0,3,"click, click filtro, click, scroll down, click",Spaghetti Funghi e Speck
+partecipante_16,A,task_2,1,SI,0,4,"back, click filtro, click, scroll down, click",Pita
+partecipante_16,A,task_3,1,SI,0,2,"back, click, scroll down",Madeline
+partecipante_17,B,task_1,1,SI,0,3,"scroll down, click",Rad Na
+partecipante_17,B,task_2,1,SI,0,5,"scroll down, click filtro, click, click",Foglie di Vite
+partecipante_17,B,task_3,3,SI,0,5,"scroll down, click filtro, click, click",Biscotti Arancia e Cioccolato
+partecipante_17,A,task_1,1,SI,0,3,"click, click filtro, click, click",Spaghetti Pomodorini e Basilico
+partecipante_17,A,task_2,1,SI,0,3,"back, click filtro, click, scroll down, click",Bistecca di Manzo
+partecipante_17,A,task_3,1,SI,0,4,"back, click filtro, click, scroll down, click",Spaghetti Funghi e Speck
+partecipante_18,B,task_1,2,SI,0,5,"click, scroll down, scroll down, scroll down, click", Pasta Bolognese
+partecipante_18,B,task_2,3,SI,0,3,"back, scroll down, scroll down, scroll up, scroll up, click",Foglie di Vite
+partecipante_18,B,task_3,2,SI,1,4,"back, scroll down, scroll down, click, back, scroll down, click",Pad Tai
+partecipante_18,A,task_1,1,SI,0,3,"click, scroll down, scroll down, click",Spaghetti Pomodorini e Basilico
+partecipante_18,A,task_2,2,SI,0,4,"back, scroll up, scroll up, click filtro, click, click ",Stufato di Uova di Quaglia
+partecipante_18,A,task_3,2,SI,0,6,"back, scroll uo, click filtro, click, click",Madeline
+partecipante_19,B,task_1,1,SI,0,3,"click, scroll down, scroll down, scroll down, scroll down, click, back, click",Noodles con Maiale e Verdure
+partecipante_19,B,task_2,1,SI,0,3,"back, scroll down, click, back, click",Tom Yum
+partecipante_19,B,task_3,3,SI,0,5,"back, scroll up, scroll up, scroll up, scroll up,click filtro, click, scroll down, click",Noodles con Maiale e Verdure
+partecipante_19,A,task_1,1,SI,0,3,"click, scroll down, scroll up, click filtro, click, click",Rad Na
+partecipante_19,A,task_2,2,SI,0,3,"back, click filtro, click, scroll down, click",Foglie di Vite
+partecipante_19,A,task_3,1,SI,0,2,"bak, scroll down, scroll up, click filtro, click, click",Spaghetti Funghi e Speck
+partecipante_2,B,task_1,1,SI,0,4,"click, scroll down, scroll down, scroll down, scroll down, scroll up, scroll up, click",Spaghetti Pomodorini e Basilico
+partecipante_2,B,task_2,1,SI,0,3,"back, scroll down, click",Ramen
+partecipante_2,B,task_3,1,SI,0,6,"back, scroll down, scrolldown, scroll down, scroll down, scroll down, click, back, click",Tiramisù
+partecipante_2,A,task_1,1,SI,0,3,"click, scroll down, scroll down, click",Zuppa con funghi
+partecipante_2,A,task_2,1,SI,1,2,"back, scroll down, scroll down, scroll down, click",Torta di carote
+partecipante_2,A,task_3,1,SI,0,4,"back, scroll up, scroll up, back, click, back, scroll up, scroll down, click",Pollo peperoni e riso
+partecipante_20,B,task_1,1,NO,1,3,"click, scroll down, scroll down, scroll down, scroll down, click",Pasta Bolognese
+partecipante_20,B,task_2,1,SI,0,3,"back, scroll up, scroll up, scroll up, scroll up, click filtro, click, scroll down, click",Bistecca di Manzo
+partecipante_20,B,task_3,2,SI,0,8,"back, click filtro, click, scroll down, click",Bocconcini mozzarella
+partecipante_20,A,task_1,1,SI,0,3,"click, click filtro, click, scroll down, click",Spaghetti Funghi e Speck
+partecipante_20,A,task_2,1,SI,0,2,"click, click filtro, click scroll down, click",Foglie di Vite
+partecipante_20,A,task_3,1,SI,0,3,"back, click filtro, click, scroll down, click",Tortellini classici e rossi
+partecipante_21,B,task_1,1,SI,0,3,"click, click filtro, click, scroll down, click",Rad Na
+partecipante_21,B,task_2,1,SI,0,3,"back, scroll down, click",Stufato di Uova di Quaglia
+partecipante_21,B,task_3,1,SI,0,5,"click, click filtro, click, scroll down, click",Pad Tai
+partecipante_21,A,task_1,1,SI,0,3,"click, scroll down, click, back, click",Ramen
+partecipante_21,A,task_2,1,SI,0,4,"click, scroll down, click filtro, click, click",Bistecca di Manzo
+partecipante_21,A,task_3,1,SI,0,3,"back, click filtro, click, scroll down, click",Tiramisù
+partecipante_22,B,task_1,1,SI,0,4,"click, click filtro, click, scroll down, click",Noodles con Maiale e Verdure
+partecipante_22,B,task_2,1,SI,0,5,"click, click filtro, click, scroll down, click",Bistecca di Manzo
+partecipante_22,B,task_3,2,SI,0,3,"back, click filtro, click, scroll down, scroll down, click",Biscotti Arancia e Cioccolato
+partecipante_22,A,task_1,1,SI,0,3,"click, scroll down, scroll down, click",Ramen
+partecipante_22,A,task_2,1,SI,0,4,"back, scroll down, click, back, click",Bistecca di Manzo
+partecipante_22,A,task_3,2,SI,0,5,"back, scroll up, scroll up, scroll up, click filtro, click, scroll down, click",Spaghetti Funghi e Speck
+partecipante_23,B,task_1,1,SI,0,4,"click, click filtro, click, click",Pasta Bolognese
+partecipante_23,B,task_2,1,SI,0,2,"back, scroll down, scroll down, scroll down, scroll down, click",Bistecca di Manzo
+partecipante_23,B,task_3,2,SI,0,3,"back, scroll down, scroll down, scroll down, scroll down, scroll down, click",Tiramisù
+partecipante_23,A,task_1,1,SI,0,3,"click, click filtro, click, scroll down, click",Zuppa ai funghi
+partecipante_23,A,task_2,1,SI,0,2,"back, scroll down, click",Ramen
+partecipante_23,A,task_3,1,SI,0,4,"back, click filtro, click, scroll down, click",Pollo peperoni e riso
+partecipante_24,B,task_1,1,SI,0,3,"click, click filtro, click, scroll down, click",Spaghetti Funghi e Speck
+partecipante_24,B,task_2,1,SI,0,3,"click, scroll down, scroll down, scroll down, scroll down, scroll down, scroll down, click",Zuppa Piccante con Pollo
+partecipante_24,B,task_3,2,SI,0,4,"back, scroll down, scroll down, scroll down, scroll down, scroll down, click",Tiramisù
+partecipante_24,A,task_1,1,SI,0,3,"click, click filtro, click, scroll down click",Noodles con Maiale e Verdure
+partecipante_24,A,task_2,1,SI,0,4,"back, scroll up, click filtro, click, scroll down, click, back, click",Stufato di Uova di Quaglia
+partecipante_24,A,task_3,1,SI,0,11,"back, scroll up, click filtro, click, scroll down, click",Pollo peperoni e riso
+partecipante_25,B,task_1,1,SI,0,4,"click, scroll down, scroll down, scroll down, scroll down, click, back, click",Rad Na
+partecipante_25,B,task_2,1,SI,0,5,"back, scroll down, scroll down, scroll down, scroll down, click, back, click",Stufato di Uova di Quaglia
+partecipante_25,B,task_3,2,SI,0,6,"back, scroll up, scroll up, scroll up, scroll up, scroll up, scroll up, scroll up, click",Pad Tai
+partecipante_25,A,task_1,1,SI,0,3,"click, scroll down, scroll down, scroll down, click, back, click",Noodles con Maiale e Verdure
+partecipante_25,A,task_2,1,SI,0,3,"back, scroll down,  scroll down, click",Stufato di Uova di Quaglia
+partecipante_25,A,task_3,2,SI,0,3,"scroll down, scroll down, scroll down, scroll down, click, back, click",Tiramisù
+partecipante_26,B,task_1,1,SI,0,3,"click, scroll down, scroll down, scroll down, scroll down, scroll down, click",Spaghetti Funghi e Speck
+partecipante_26,B,task_2,1,SI,1,3,"back, scroll down, scroll down, scroll down, click, back, click",Tom yum
+partecipante_26,B,task_3,1,SI,0,6,"back, scroll up, scroll up, scroll up, scroll up, scroll down, click",Tortellini classici e rossi
+partecipante_26,A,task_1,1,SI,0,3,"click, scroll down, scroll down click",Noodles con Maiale e Verdure
+partecipante_26,A,task_2,1,SI,0,4,"back, scroll down, scroll up, click filtro, click, back, scroll down, click",Foglie di Vite
+partecipante_26,A,task_3,1,SI,0,5,"back, scroll down, scroll up, click filtro, click, scroll down, click, back, scroll down, click",Crepes
+partecipante_27,B,task_1,1,SI,0,4,"click, scroll down, scroll down, scroll down, scroll down, click, back, scroll down",Spaghetti Funghi e Speck
+partecipante_27,B,task_2,1,SI,0,2,"back, scroll down, click, back, scroll down, scroll down, scroll down, scroll down, scroll down, click",Zuppa Piccante con Pollo
+partecipante_27,B,task_3,4,SI,0,3,"back, scroll up, scroll up, scroll up, scroll upclick",Tortellini classici e rossi
+partecipante_27,A,task_1,1,SI,0,3,"click, scroll down, scroll down, click",Spaghetti Pomodorini e Basilico
+partecipante_27,A,task_2,1,SI,0,4,"back, scroll down, click",Pita
+partecipante_27,A,task_3,1,SI,0,6,"back, scroll up, scroll up, scroll up, click filtro, click, scroll down, click, back, click",Yogurt melagrano
+partecipante_28,B,task_1,1,SI,0,4,"click, scroll down, scroll down, scroll down, scroll down, scroll down, scroll down",Pasta Bolognese
+partecipante_28,B,task_2,1,SI,0,4,"back, scroll down, scroll down, scroll down, scroll down, click, back, scroll down, click",Stufato di Uova di Quaglia
+partecipante_28,B,task_3,1,SI,0,4,"back, scroll down, scroll down, scroll down, scroll down, click, back, scroll down, scroll down, scroll down, click",Yogurt melagrano
+partecipante_28,A,task_1,1,SI,0,3,"click, click filtro, click, scroll down, scroll up, click",Spaghetti Funghi e Speck
+partecipante_28,A,task_2,1,SI,0,3,"click, click filtro, click, scroll down, click",Stufato di Uova di Quaglia
+partecipante_28,A,task_3,1,SI,0,6,"back, scroll up, click",Pollo peperoni e riso
+partecipante_29,B,task_1,1,SI,0,3,"click, click filtro, click scroll down, click",Spaghetti Pomodorini e Basilico
+partecipante_29,B,task_2,1,SI,0,2,"back, scroll down, scroll up, click filtro, cick, scroll down, scroll down, scroll down, click",Stufato di Uova di Quaglia
+partecipante_29,B,task_3,4,SI,0,5,"back, scroll down, scroll up, click filtro, click, scroll down, scroll down, scroll down, scroll down, click",Biscotti Arancia e Cioccolato
+partecipante_29,A,task_1,1,SI,0,4,"click, click filtro, click, scroll down, click",Noodles con Maiale e Verdure
+partecipante_29,A,task_2,1,SI,0,3,"back, click filtro, click, scroll down, click",Ramen
+partecipante_29,A,task_3,1,SI,0,5,"click, scroll down, scroll up, click filtro, click",Yogurt melagrano
+partecipante_3,B,task_1,1,SI,0,3,"click, scroll down, scroll down, scroll down, scroll down, scroll down, click",Spaghetti Funghi e Speck
+partecipante_3,B,task_2,1,SI,0,2,"back, scroll down, click",Bistecca di Manzo
+partecipante_3,B,task_3,3,SI,0,7,"back, scroll down, click, back, scroll down, click",Pad Tai
+partecipante_3,A,task_1,1,SI,0,3,"click, scroll down",Spaghetti Funghi e Speck
+partecipante_3,A,task_2,1,SI,0,4,"back, scroll down, click, back, click",Zuppa Piccante con Pollo
+partecipante_3,A,task_3,1,SI,0,5,"back, scroll down, click, back, scroll down, click",Bocconcini mozzarella marinata
+partecipante_30,B,task_1,1,SI,0,4,"click, scroll down, scroll down, scroll down, scroll down, click",Spaghetti Pomodorini e Basilico
+partecipante_30,B,task_2,1,SI,0,3,"back, click, scroll down, click",Tom yum
+partecipante_30,B,task_3,3,SI,0,5,"back, scroll down, click, back, click",Tortellini
+partecipante_30,A,task_1,1,SI,0,3,"ckick, scroll down, scroll down, click",Zuppa con funghi
+partecipante_30,A,task_2,1,SI,0,3,"back, click, scroll down, click",Foglie di Vite
+partecipante_30,A,task_3,1,SI,0,3,"scroll down, click filtro, click",Tiramisù
+partecipante_31,B,task_1,1,SI,0,3,"click, scroll down, scroll up, click filtro, click, click",Spaghetti Pomodorini e Basilico
+partecipante_31,B,task_2,1,SI,1,4,"back, scroll down, click, back, click",Foglie di Vite
+partecipante_31,B,task_3,1,SI,0,8,"click, click filtro, scroll down, click",Zuppa di Formaggio in tazza
+partecipante_31,A,task_1,1,SI,0,3,"click, scroll down, click, back, scroll down, click",Ramen
+partecipante_31,A,task_2,1,SI,0,4,"scroll down, click filtro, click, click",Foglie di Vite
+partecipante_31,A,task_3,1,SI,0,2,"scroll down, click",Pollo peperoni e riso
+partecipante_32,B,task_1,1,SI,0,4,"click, scroll down, scroll up, click filtro, click, click",Spaghetti Funghi e Speck
+partecipante_32,B,task_2,1,SI,1,3,"click, click filtro, click, scroll down, click",Stufato di Uova di Quaglia
+partecipante_32,B,task_3,2,SI,0,6,"click, scroll down",Tiramisù
+partecipante_32,A,task_1,1,SI,0,3,"click, scroll down, scroll down, click, back, click",Rad Na
+partecipante_32,A,task_2,1,SI,0,3,"back, scroll down, click, back, click",Pita
+partecipante_32,A,task_3,1,SI,0,7,"back, scroll down, click, back, click",Yogurt melagrano
+partecipante_33,B,task_1,1,SI,0,3,"click, scroll down, click",Rad Na
+partecipante_33,B,task_2,1,SI,0,2,"scroll down, click filtro, click, click",Stufato di Uova di Quaglia
+partecipante_33,B,task_3,2,SI,0,6,"back, click filtro, click, click",Biscotti Arancia e Cioccolato
+partecipante_33,A,task_1,1,SI,0,3,"click, scroll down, click",Zuppa con funghi
+partecipante_33,A,task_2,1,SI,0,3,"click, scroll down, click filtro, click, click",Pita
+partecipante_33,A,task_3,1,SI,0,7,"click, scroll down",Pollo peperoni e riso
+partecipante_34,B,task_1,1,SI,0,4,"click, scroll down, scroll down, scroll down, click",Spaghetti Funghi e Speck
+partecipante_34,B,task_2,1,SI,0,4,"click, scroll down, scroll down, click",Zuppa Piccante con Pollo
+partecipante_34,B,task_3,2,SI,0,6,"scroll down, click",Tiramisù
+partecipante_34,A,task_1,1,SI,0,3,"click, click, scroll up, scroll up, scroll up",Spaghetti Funghi e Speck
+partecipante_34,A,task_2,1,SI,0,3,"click, scroll down, scroll down, click",Ramen
+partecipante_34,A,task_3,2,SI,0,7,"click, scroll down, scroll down, click",Pollo peperoni e riso
+partecipante_35,B,task_1,1,SI,0,5,"click, scroll down, click",Pasta Bolognese
+partecipante_35,B,task_2,1,SI,0,2,"click, click filtro, click, scroll down, click",Stufato di Uova di Quaglia
+partecipante_35,B,task_3,2,SI,0,7,"back, scroll down, click, back, click",Madeline
+partecipante_35,A,task_1,1,SI,0,3,"click, scroll down, click",Noodles con Maiale e Verdure
+partecipante_35,A,task_2,1,SI,0,3,"back, scroll down, click",Ramen
+partecipante_35,A,task_3,1,SI,0,4,"click filtro, click",Spaghetti Funghi e Speck
+partecipante_36,B,task_1,1,SI,0,4,"click, scroll down, click",Rad Na
+partecipante_36,B,task_2,1,SI,0,5,"back, scroll down, click",Ramen
+partecipante_36,B,task_3,1,SI,0,8,"scroll down, click filtro, click",Noodles con Maiale e Verdure
+partecipante_36,A,task_1,1,SI,0,3,"click, scroll down, scroll down, click",Noodles con Maiale e Verdure
+partecipante_36,A,task_2,1,SI,0,2,"back, click",Zuppa Piccante con Pollo
+partecipante_36,A,task_3,1,SI,0,5,"back, click, scroll down",Pollo peperoni e riso
+partecipante_37,B,task_1,1,SI,0,4,"back, click filtro, click, scroll down, click",Spaghetti Pomodorini e Basilico
+partecipante_37,B,task_2,1,SI,0,3,"click, scroll down, click",Foglie di Vite
+partecipante_37,B,task_3,1,SI,0,4,"back, scroll down, click, back, click",Pad Tai
+partecipante_37,A,task_1,1,SI,0,2,"click filtro, click",Zuppa con funghi
+partecipante_37,A,task_2,3,SI,0,3,"back, click filtro, click, click",Zuppa Piccante con Pollo
+partecipante_37,A,task_3,1,SI,0,5,"back, click filtro, click, scroll down, click",Tortellini classici e rossi
+partecipante_38,B,task_1,1,SI,0,3,"click, scroll down, scroll down, scroll down, scroll down, scroll down, click",Spaghetti Funghi e Speck
+partecipante_38,B,task_2,2,SI,0,3,"click, scroll down, click filtro, click, scroll, click",Ramen
+partecipante_38,B,task_3,2,SI,0,7,"click, scroll down, click filtro, click",Yogurt melagrano
+partecipante_38,A,task_1,1,SI,0,3,"click, scroll down, scroll down, click",Spaghetti Funghi e Speck
+partecipante_38,A,task_2,1,SI,0,5,"back, click filtro, click, scroll down, click",Stufato di Uova di Quaglia
+partecipante_38,A,task_3,1,SI,0,6,"scroll down, click filtro, click, click",Tortellini classici e rossi
+partecipante_39,B,task_1,2,SI,0,3,"click, click filtro, click, click",Spaghetti Funghi e Speck
+partecipante_39,B,task_2,1,SI,0,2,"scroll down, click",Zuppa Piccante con Pollo
+partecipante_39,B,task_3,1,SI,0,6,"back, click filtro, click, click",Bocconcini mozzarella
+partecipante_39,A,task_1,1,SI,0,3,"click, scroll down, scroll down, click",Zuppa con funghi
+partecipante_39,A,task_2,2,SI,0,3,"back, scroll up, scroll up, click filtro, click, click",Pita
+partecipante_39,A,task_3,1,SI,0,5,"back, click filtro, click, click",Spaghetti Funghi e Speck
+partecipante_4,B,task_1,1,SI,0,3,"click, click filtro, click",Spaghetti Pomodorini e Basilico
+partecipante_4,B,task_2,1,SI,0,3,"back, click filtro, click",Bistecca di Manzo
+partecipante_4,B,task_3,1,SI,0,6,"back, click filtro, click, back, click, back",Zuppa di Formaggio in tazza
+partecipante_4,A,task_1,1,SI,0,3,"click, click filtro, click",Spaghetti Funghi e Speck
+partecipante_4,A,task_2,1,SI,0,3,"back, click filtro, click, click, hover, click",Pita
+partecipante_4,A,task_3,1,SI,0,5,"back, click filtro, click, back, click",Tortellini rossi e classici
+partecipante_40,B,task_1,1,SI,0,2,"click, scroll down, click, back, click",Spaghetti Pomodorini e Basilico
+partecipante_40,B,task_2,1,SI,0,3,"click, click filtro, click, click",Foglie di Vite
+partecipante_40,B,task_3,2,SI,0,6,"back, click filtro, click, click",Bocconcini mozzarella
+partecipante_40,A,task_1,2,SI,0,3,"click, scroll down, scroll up, click filtro, click, click",Spaghetti Funghi e Speck
+partecipante_40,A,task_2,1,SI,0,3,"click, scroll down, scroll down, click",Bistecca di Manzo
+partecipante_40,A,task_3,1,SI,0,3,"click, scroll down, scroll up, click",Tortellini rossi e classici
+partecipante_5,B,task_1,1,SI,0,3,"click, scroll down, click",Pad Tai
+partecipante_5,B,task_2,3,SI,0,3,"back, scroll down, scroll down, scroll down, scroll down, click",Tiramisù
+partecipante_5,B,task_3,5,SI,0,7,"back, scroll down, click, back, scroll down, click",Noodles con Maiale e Verdure
+partecipante_5,A,task_1,2,SI,1,3,"click, scroll down, click",Waffle
+partecipante_5,A,task_2,1,SI,0,3,"back, scroll down, click",Ramen
+partecipante_5,A,task_3,2,SI,0,6,"back, scroll down, click, back, click, scroll down",Pollo peperoni e riso
+partecipante_6,B,task_1,1,SI,0,5,"click, scroll down, click filtro, scroll down, click",Noodles con Maiale e Verdure
+partecipante_6,B,task_2,1,SI,0,3,"back, click filtro, click",Bistecca di Manzo
+partecipante_6,B,task_3,2,SI,0,3,"back, scroll down, click",Ramen
+partecipante_6,A,task_1,1,SI,0,3,"click, click filtro, click",Spaghetti Funghi e Speck
+partecipante_6,A,task_2,1,SI,0,3,"back, click filtro, click, scroll down, click",Stufato di Uova di Quaglia
+partecipante_6,A,task_3,1,SI,0,4,"back, click filtro, click, scroll down, click",Rad Na
+partecipante_7,B,task_1,2,SI,0,4,"click, scroll down, click",Spaghetti Pomodorini e Basilico
+partecipante_7,B,task_2,2,SI,0,3,"back, click filtro, click, click",Pita
+partecipante_7,B,task_3,2,SI,0,5,"back, click filtro, click, back, scroll down, click",Tortellini
+partecipante_7,A,task_1,4,SI,0,3,"click, click filtro, click, click",Spaghetti Funghi e Speck
+partecipante_7,A,task_2,1,SI,0,3,"back, click filtro, click",Pita
+partecipante_7,A,task_3,3,SI,0,3,"back, scroll down, click",Yogurt melagrano
+partecipante_8,B,task_1,1,SI,0,5,"click, scroll down, scroll down, scroll down, scroll down, click, back, scroll down, scroll down, scroll down, click",Pasta Bolognese
+partecipante_8,B,task_2,1,SI,0,4,"back, click filtro, scroll down, click",Stufato di Uova di Quaglia
+partecipante_8,B,task_3,4,SI,0,6,"back, click filtro, scroll down, click, back, click",Mozzarella e pomodorini
+partecipante_8,A,task_1,1,SI,0,3,"click, click filtro, click",Spaghetti Funghi e Speck
+partecipante_8,A,task_2,1,SI,0,4,"back, click filtro, click, scroll down, click",Bistecca di Manzo
+partecipante_8,A,task_3,2,SI,0,5,"back, click filtro, click, back, scroll down, click",Biscotti Arancia e Cioccolato
+partecipante_9,B,task_1,1,SI,0,4,"click, scroll down, click, back, click",Spaghetti Pomodorini e Basilico 
+partecipante_9,B,task_2,2,SI,0,4,"back, scroll down, click filtro, click",Pita
+partecipante_9,B,task_3,2,SI,0,6,"back, click filtro, scroll down, click filtro, scroll down",Zuppa con funghi
+partecipante_9,A,task_1,2,SI,0,3,"click, click filtro, click, click",Spaghetti Pomodorini e Basilico
+partecipante_9,A,task_2,2,SI,0,4,"back, scroll down, click filtro, click, click",Foglie di Vite
+partecipante_9,A,task_3,1,SI,0,3,"back, scroll down, click",Spaghetti Funghi e Speck

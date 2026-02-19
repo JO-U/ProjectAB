@@ -1,0 +1,53 @@
+# Configurazione Target Groups per A/B Testing
+# Basato su data/personas_data/ e src/personas/target.yaml
+
+targets:
+  adult_18_35:
+    demographics:
+      age_min: 18
+      age_max: 30
+      country: "Italia"
+    
+    behavior_ranges:
+      # Giovani = impazienti, bounce più alto, sessioni veloci
+      bounce_rate: [0.20, 0.40]
+      pageviews: [2, 6]
+      session_duration_sec: [0.3, 2.0]  # In secondi (18-120 sec)
+    
+    literacy_distribution:
+      # Giovani = più tech-savvy
+      high: 0.70    # 60% alta literacy
+      medium: 0.30  # 30% media
+      low: 0.5     # 10% bassa
+    
+    num_personas: 30  # Numero di personas da generare per questo target
+
+  adult_50_65:
+    demographics:
+      age_min: 50
+      age_max: 65
+      country: "Italia"
+    
+    behavior_ranges:
+      # Adulti maturi = più pazienti ma bounce più alto se confusi
+      bounce_rate: [0.35, 0.60]
+      pageviews: [1, 4]
+      session_duration_sec: [0.1, 1.0]  # Sessioni più brevi se non trovano subito
+    
+    literacy_distribution:
+      # Adulti 50+ = meno tech-savvy in media
+      high: 0.15    # 15% alta literacy
+      medium: 0.45  # 45% media
+      low: 0.40     # 40% bassa
+    
+    num_personas: 10  
+
+# LEGENDA:
+# - bounce_rate: [min, max] → Probabilità di abbandono (0-1)
+# - pageviews: [min, max] → Numero di pagine viste per sessione
+# - session_duration_sec: [min, max] → Durata sessione in secondi
+# - literacy_distribution: Distribuzione alfabetizzazione tecnologica (somma = 1.0)
+#   * high = tech-savvy, usa scorciatoie, legge documentazione
+#   * medium = utente medio, preferisce UI intuitiva
+#   * low = principiante, ha bisogno di elementi grandi e chiari
+# - num_personas: Quante personas generare per questo target group

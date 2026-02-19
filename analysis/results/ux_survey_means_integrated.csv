@@ -1,0 +1,5 @@
+tipo,prototipo,fonte,feature_satisfaction,ease_of_use
+AI,A,log_json,4.08,4.96
+AI,B,log_json,4.038461538461538,4.384615384615385
+umano,A,form_csv,5.538461538461538,5.538461538461538
+umano,B,form_csv,5.487179487179487,5.435897435897436
