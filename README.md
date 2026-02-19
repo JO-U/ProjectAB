@@ -1,2 +1,2 @@
 # ProjectAB
-ProjectAB simula test A/B su interfacce web utilizzando Large Language Models (LLM) per generare comportamenti utente sintetici. Integra l'API di Figma per estrarre varianti UI e profili persona da dataset Hugging Face, supportando analisi UX data-driven.
+Il progetto simula test A/B su prototipi Figma usando agenti LLM (Gemini 2 Flash) per generare comportamenti utente sintetici. Estrae struttura UI tramite Playwright, integra personas sintetiche da dataset, e supporta analisi UX data-driven con metriche TSR, ToT, ER, TTC e UMUX-LITE.
